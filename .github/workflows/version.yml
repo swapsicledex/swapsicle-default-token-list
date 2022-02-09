@@ -1,0 +1,22 @@
+name: Bumping on bot PR
+permissions: write-all
+on:
+  pull_request:
+    types: [ closed ]
+jobs:
+  bump_version:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true && github.event.pull_request.user.login == 'tokenlistform[bot]'
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
+          registry-url: 'https://registry.npmjs.org'
+          scope: '@sushiswap'
+          cache: 'yarn'
+      - run: |
+            git config --global user.email "form@sushi.com"
+            git config --global user.name "tokenlistform[bot]"
+            yarn
+            yarn raise-version minor --changelog false --changelog-path "package.json" --git-development master --git-push true
