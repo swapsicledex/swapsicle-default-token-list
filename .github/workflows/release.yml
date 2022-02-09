@@ -3,6 +3,12 @@ on:
   push:
     branches:
       - master
+    paths:
+      - "package.json"
+  workflow_call:
+    secrets:
+      NPM_TOKEN:
+        required: true
 jobs:
   build:
     runs-on: ubuntu-latest
