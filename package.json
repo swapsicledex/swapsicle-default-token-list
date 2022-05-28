@@ -1,38 +1,38 @@
 {
-  "name": "@sushiswap/default-token-list",
-  "version": "24.30.0",
-  "description": "◦ The SushiSwap default token list",
-  "main": "build/sushiswap-default.tokenlist.json",
+  "name": "@bitgraphix/swapsicle-default-token-list",
+  "version": "0.0.3",
+  "description": "◦ The Swapsicle default token list",
+  "main": "build/swapsicle-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node internal/write.js > build/swapsicle-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
     "sync": "node internal/sync.js",
     "volume": "ts-node ./internal/tokenVolumes.ts"
   },
   "files": [
-    "build/sushiswap-default.tokenlist.json"
+    "build/swapsicle-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushiswap/default-token-list.git"
+    "url": "git+https://github.com/Dev-Legion/swapsicle-default-token-list.git"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
-    "sushiswap",
+    "swapsicle",
     "default",
     "token",
     "list"
   ],
-  "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "author": "Andreas Billy Sutandi <billyfebram@gmail.com>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sushiswap/default-token-list/issues"
+    "url": "https://github.com/Dev-Legion/swapsicle-default-token-list/issues"
   },
-  "homepage": "https://github.com/sushiswap/default-token-list#readme",
+  "homepage": "https://github.com/Dev-Legion/swapsicle-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",

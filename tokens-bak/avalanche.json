@@ -246,53 +246,5 @@
     "symbol": "WINE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
-  },
-  {
-    "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
-    "chainId": 43114,
-    "name": "Grape Finance",
-    "symbol": "GRAPE",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/grapefi/tokens/main/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
-  },
-  {
-      "address": "0xC55036B5348CfB45a932481744645985010d3A44",
-      "chainId": 43114,
-      "name": "Wine Shares",
-      "symbol": "WINE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/grapefi/tokens/main/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
-  },
-  {
-      "address": "0xF18ecD11D87c7479f8cd2Ebe29aBAD04c97378dd",
-      "chainId": 43114,
-      "name": "GBOND",
-      "symbol": "GBOND",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/grapefi/tokens/main/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
-  },
-  {
-      "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
-      "chainId": 43114,
-      "name": "Fire",
-      "symbol": "FIRE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
-  },
-  {
-      "address": "0x9867cc2419Fb317e986A648E02cF7C35aa87a336",
-      "chainId": 43114,
-      "name": "Mind",
-      "symbol": "MIND",
-      "decimals": 18,
-      "logoURI": "https://biggerminds.io/logo.png"
-  },
-  {
-      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-      "chainId": 43114,
-      "name": "USD Coin",
-      "symbol": "USDC.e",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
   }
 ]
