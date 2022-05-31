@@ -4,8 +4,8 @@
     "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     "decimals": 18,
     "name": "Wrapped AVAX",
-    "symbol": "WAVAX",
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.jpg"
+    "symbol": "WAVAX",    
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
   },
   {
     "chainId": 43114,
@@ -260,7 +260,7 @@
     "chainId": 43114,
     "name": "POPSToken",
     "symbol": "POPS",
-    "decimals": 8,
+    "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.png"
   }
   
