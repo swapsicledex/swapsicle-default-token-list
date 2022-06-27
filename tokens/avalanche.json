@@ -224,12 +224,12 @@
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
   },
   {
-    "address": "0x9867cc2419Fb317e986A648E02cF7C35aa87a336",
+    "address": "0x92876C3A3E2B0788C841587a14989392A555BffE",
     "chainId": 43114,
-    "name": "Mind",
-    "symbol": "MIND",
+    "name": "MIND+",
+    "symbol": "MIND+",
     "decimals": 18,
-    "logoURI": "https://biggerminds.io/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x92876C3A3E2B0788C841587a14989392A555BffE/logo.png"
   },
   {
     "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
@@ -252,7 +252,7 @@
     "chainId": 43114,
     "name": "PenguinToken",
     "symbol": "PEFI",
-    "decimals": 8,
+    "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
   },
   {
