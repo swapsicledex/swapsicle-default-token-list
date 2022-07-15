@@ -36,7 +36,7 @@
     "address": "0x5947BB275c521040051D82396192181b413227A3",
     "decimals": 18,
     "name": "ChainLink Token",
-    "symbol": "LINK",
+    "symbol": "LINK.e",
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x5947BB275c521040051D82396192181b413227A3.jpg"
   },
   {
@@ -262,6 +262,31 @@
     "symbol": "POPS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.png"
+  },
+
+  {
+    "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
+    "chainId": 43114,
+    "name": "Domi",
+    "symbol": "DOMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
+  },
+  {
+    "address": "0xf53cC73cF2638B330e62B094efeDf0a7d9eE1b53",
+    "chainId": 43114,
+    "name": "LavaToken",
+    "symbol": "LAVA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xf53cC73cF2638B330e62B094efeDf0a7d9eE1b53/logo.png"
+  },
+  {
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "chainId": 43114,
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
   }
   
 ]
