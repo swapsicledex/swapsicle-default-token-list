@@ -287,6 +287,22 @@
     "symbol": "BTC.b",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+  },
+  {
+    "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+    "chainId": 43114,
+    "name": "YUSD Stablecoin",
+    "symbol": "YUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
+  },
+  {
+    "address": "0x501012893eE88976AB8B5289B7a78E307d5d9DCb",
+    "chainId": 43114,
+    "name": "Narwhal",
+    "symbol": "NRWL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x501012893eE88976AB8B5289B7a78E307d5d9DCb/logo.png"
   }
   
 ]
