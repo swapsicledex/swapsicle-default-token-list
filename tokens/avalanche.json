@@ -273,12 +273,12 @@
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
   },
   {
-    "address": "0xf53cC73cF2638B330e62B094efeDf0a7d9eE1b53",
+    "address": "0x7c105c37A622EB8586BEAef215d452b3f7Dc9A39",
     "chainId": 43114,
-    "name": "LavaToken",
+    "name": "LavaToken v2",
     "symbol": "LAVA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xf53cC73cF2638B330e62B094efeDf0a7d9eE1b53/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x7c105c37A622EB8586BEAef215d452b3f7Dc9A39/logo.png"
   },
   {
     "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
