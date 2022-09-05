@@ -311,6 +311,22 @@
     "symbol": "VINTAGE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x01Af64EF39AEB5612202AA07B3A3829f20c395fd/logo.png"
+  },
+  {
+    "address": "0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d",
+    "chainId": 43114,
+    "name": "Victory",
+    "symbol": "AVIC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d/logo.png"
+  },
+  {
+    "address": "0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E",
+    "chainId": 43114,
+    "name": "Champion",
+    "symbol": "CHAM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E/logo.png"
   }
   
 ]
