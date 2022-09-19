@@ -88,6 +88,14 @@
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x74FeFa839A96A1632A29E0fcf0907d0F88528658/logo.png" 
   },
   {
+    "chainId": 43114,
+    "address": "0x95CED7c63eA990588F3fd01cdDe25247D04b8D98",
+    "decimals": 18,
+    "name": "GrapeVine",
+    "symbol": "XGRAPE",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x95CED7c63eA990588F3fd01cdDe25247D04b8D98/logo.png" 
+  },
+  {
     "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
     "chainId": 43114,
     "name": "Magic Internet Money",
