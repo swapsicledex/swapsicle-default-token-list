@@ -73,6 +73,22 @@
   },
   {
     "chainId": 43114,
+    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "decimals": 18,
+    "name": "GMX",
+    "symbol": "GMX",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png" 
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+    "decimals": 18,
+    "name": "THOR v2",
+    "symbol": "THOR",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png" 
+  },
+  {
+    "chainId": 43114,
     "address": "0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B",
     "decimals": 18,
     "name": "Chronicum",
