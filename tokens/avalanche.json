@@ -77,7 +77,7 @@
     "decimals": 18,
     "name": "GMX",
     "symbol": "GMX",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.jpg" 
   },
   {
     "chainId": 43114,
@@ -85,7 +85,7 @@
     "decimals": 18,
     "name": "THOR v2",
     "symbol": "THOR",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.jpg" 
   },
   {
     "chainId": 43114,
