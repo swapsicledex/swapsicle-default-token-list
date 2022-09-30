@@ -75,7 +75,7 @@
     "chainId": 43114,
     "address": "0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693",
     "decimals": 18,
-    "name": "DEFO",
+    "name": "DEFO Token",
     "symbol": "DEFO",
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693/logo.png" 
   },
