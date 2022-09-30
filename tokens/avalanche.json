@@ -73,6 +73,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693",
+    "decimals": 18,
+    "name": "DEFO",
+    "symbol": "DEFO",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693/logo.png" 
+  },
+  {
+    "chainId": 43114,
     "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
     "decimals": 18,
     "name": "GMX",
