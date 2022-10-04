@@ -81,11 +81,11 @@
   },
   {
     "chainId": 43114,
-    "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+    "address": "0xad92430a77854d72fcbbc5f4ec1e9f89d7585b90",
     "decimals": 18,
     "name": "USDC.e Victory",
     "symbol": "UVIC",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xAd92430A77854d72fcbBc5F4ec1e9f89D7585b90/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xad92430a77854d72fcbbc5f4ec1e9f89d7585b90/logo.png" 
   },
   {
     "chainId": 43114,
