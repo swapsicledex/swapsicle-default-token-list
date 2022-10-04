@@ -81,14 +81,6 @@
   },
   {
     "chainId": 43114,
-    "address": "0xad92430a77854d72fcbbc5f4ec1e9f89d7585b90",
-    "decimals": 18,
-    "name": "USDC.e Victory",
-    "symbol": "UVIC",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xad92430a77854d72fcbbc5f4ec1e9f89d7585b90/logo.png" 
-  },
-  {
-    "chainId": 43114,
     "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
     "decimals": 18,
     "name": "chikn feed",
@@ -134,14 +126,6 @@
     "name": "Chronicum",
     "symbol": "CHRO",
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B/logo.png" 
-  },
-  {
-    "chainId": 43114,
-    "address": "0x74FeFa839A96A1632A29E0fcf0907d0F88528658",
-    "decimals": 18,
-    "name": "Ethereum Victory",
-    "symbol": "EVIC",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x74FeFa839A96A1632A29E0fcf0907d0F88528658/logo.png" 
   },
   {
     "chainId": 43114,
@@ -295,22 +279,6 @@
     "symbol": "VINTAGE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x01Af64EF39AEB5612202AA07B3A3829f20c395fd/logo.png"
-  },
-  {
-    "address": "0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d",
-    "chainId": 43114,
-    "name": "Victory",
-    "symbol": "AVIC",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d/logo.png"
-  },
-  {
-    "address": "0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E",
-    "chainId": 43114,
-    "name": "Champion",
-    "symbol": "CHAM",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E/logo.png"
   }
   
 ]
