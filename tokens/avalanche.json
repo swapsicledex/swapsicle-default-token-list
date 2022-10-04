@@ -81,6 +81,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+    "decimals": 18,
+    "name": "USDC.e Victory",
+    "symbol": "UVIC",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xAd92430A77854d72fcbBc5F4ec1e9f89D7585b90/logo.png" 
+  },
+  {
+    "chainId": 43114,
     "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
     "decimals": 18,
     "name": "chikn feed",
