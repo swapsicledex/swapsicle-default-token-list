@@ -81,6 +81,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "decimals": 6,
+    "name": "USD+",
+    "symbol": "USD+",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg" 
+  },
+  {
+    "chainId": 43114,
     "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
     "decimals": 18,
     "name": "chikn feed",
