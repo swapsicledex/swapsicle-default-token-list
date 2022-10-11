@@ -301,6 +301,14 @@
     "symbol": "XRP",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/Dev-Legion/ovx-token-list/master/logos/avalanche/0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "decimals": 6,
+    "name": "USD+",
+    "symbol": "USD+",
+    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg" 
   }
   
 ]
