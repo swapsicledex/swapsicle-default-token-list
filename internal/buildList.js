@@ -54,7 +54,7 @@ module.exports = function buildList() {
       // ...matic,
       // ...maticTestnet,
       // ...xdai,
-      // ...bsc,
+      ...bsc,
       // ...bscTestnet,
       // ...moonbase,
       ...avalanche,
