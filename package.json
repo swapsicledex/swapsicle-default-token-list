@@ -1,11 +1,11 @@
 {
   "name": "@bitgraphix/swapsicle-default-token-list",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "description": "◦ The Swapsicle default token list",
   "main": "build/swapsicle-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node internal/write.js > build/swapsicle-default.tokenlist.json",
+    "build": "rimraf build && mkdir build && node internal/write.js > build/swapsicle-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
     "sync": "node internal/sync.js",
     "volume": "ts-node ./internal/tokenVolumes.ts"
