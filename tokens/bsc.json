@@ -80,14 +80,6 @@
     "symbol":"BCH"
  },
  {
-    "address":"0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182",
-    "name":"Beefy.finance",
-    "symbol":"BIFI"
- },
- {
     "address":"0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
     "chainId":56,
     "decimals":6,
@@ -142,14 +134,6 @@
     "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg",
     "name":"BUSD Token",
     "symbol":"BUSD"
- },
- {
-    "address":"0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cake.jpg",
-    "name":"PancakeSwap Token",
-    "symbol":"CAKE"
  },
  {
     "address":"0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
@@ -368,14 +352,6 @@
     "symbol":"LTC"
  },
  {
-    "address":"0x3947B992DC0147D2D89dF0392213781b04B25075",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/mirror-amzn_32.png",
-    "name":"Mirror AMZN Token",
-    "symbol":"mAMZN"
- },
- {
     "address":"0xF218184Af829Cf2b0019F8E6F0b2423498a36983",
     "chainId":56,
     "decimals":18,
@@ -392,14 +368,6 @@
     "symbol":"MCRN"
  },
  {
-    "address":"0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/mirror-google_32.png",
-    "name":"Mirror GOOGL Token",
-    "symbol":"mGOOGL"
- },
- {
     "address":"0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
     "chainId":56,
     "decimals":18,
@@ -414,22 +382,6 @@
     "logoURI":"https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4/logo.png",
     "name":"Million",
     "symbol":"MM"
- },
- {
-    "address":"0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/mirror-nflx_32.png",
-    "name":"Mirror NFLX Token",
-    "symbol":"mNFLX"
- },
- {
-    "address":"0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/mirror-tsla_32.png",
-    "name":"Mirror TSLA Token",
-    "symbol":"mTSLA"
  },
  {
     "address":"0xA1303E6199b319a891b79685F0537D289af1FC83",
@@ -584,14 +536,6 @@
     "symbol":"STM"
  },
  {
-    "address":"0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg",
-    "name":"SushiToken",
-    "symbol":"SUSHI"
- },
- {
     "address":"0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "chainId":56,
     "decimals":18,
@@ -622,14 +566,6 @@
     "logoURI":"https://assets.coingecko.com/coins/images/13152/small/logo-2.png?1605748967",
     "name":"Unifi Token",
     "symbol":"UNFI"
- },
- {
-    "address":"0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
-    "name":"Uniswap",
-    "symbol":"UNI"
  },
  {
     "address":"0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
@@ -758,5 +694,13 @@
     "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/zec.jpg",
     "name":"Zcash Token",
     "symbol":"ZEC"
- }
+ },
+   {
+      "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+      "chainId": 56,
+      "name": "USD+",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg"
+   }
 ]
