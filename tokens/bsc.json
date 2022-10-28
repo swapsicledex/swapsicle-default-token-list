@@ -702,5 +702,29 @@
       "symbol": "USD+",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg"
+   },
+   {
+      "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+      "chainId": 56,
+      "name": "Liquid Staking BNB",
+      "symbol": "BNBx",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/bsc/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275/logo.png"
+   },
+   {
+      "address": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617",
+      "chainId": 56,
+      "name": "Bolide",
+      "symbol": "BLID",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/bsc/0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617/logo.png"
+   },
+   {
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "chainId": 56,
+      "name": "AlpacaToken",
+      "symbol": "ALPACA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/bsc/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F/logo.png"
    }
 ]
