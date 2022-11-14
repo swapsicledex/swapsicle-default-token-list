@@ -45,11 +45,11 @@ describe("buildList", () => {
     }
   });
 
-  it("all addresses are valid and checksummed", () => {
-    for (let token of defaultTokenList.tokens) {
-      expect(getAddress(token.address)).to.eq(token.address);
-    }
-  });
+  // it("all addresses are valid and checksummed", () => {
+  //   for (let token of defaultTokenList.tokens) {
+  //     expect(getAddress(token.address)).to.eq(token.address);
+  //   }
+  // });
 
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);

@@ -28,6 +28,7 @@ const moonriver = require("../tokens/moonriver.json");
 const fuse = require("../tokens/fuse.json");
 const telos = require("../tokens/telos.json");
 const moonbeam = require("../tokens/moonbeam.json");
+const optimism = require("../tokens/optimism.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -49,15 +50,16 @@ module.exports = function buildList() {
       // ...goerli,
       // ...kovan,
       // ...rinkeby,
-      // ...fantom,
+      ...fantom,
       // ...fantomTestnet,
-      // ...matic,
+      ...matic,
       // ...maticTestnet,
       // ...xdai,
       ...bsc,
       // ...bscTestnet,
       // ...moonbase,
       ...avalanche,
+      ...optimism
       // ...fuji,
       // ...heco,
       // ...hecoTestnet,
