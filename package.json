@@ -1,6 +1,6 @@
 {
   "name": "@bitgraphix/swapsicle-default-token-list",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "description": "◦ The Swapsicle default token list",
   "main": "build/swapsicle-default.tokenlist.json",
   "scripts": {
