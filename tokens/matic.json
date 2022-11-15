@@ -496,14 +496,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
   },
   {
-    "name": "SushiToken",
-    "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-  },
-  {
     "name": "SportX",
     "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
     "symbol": "SX",
@@ -557,7 +549,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
   },
   {
     "name": "Tether USD",
@@ -581,7 +573,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
   },
   {
     "name": "Wrapped Matic",
@@ -589,7 +581,7 @@
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/MATIC/logo.png"
   },
   {
     "name": "Moonwolf",
@@ -1053,7 +1045,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x49a0400587A7F65072c87c4910449fDcC5c47242.jpg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x49a0400587A7F65072c87c4910449fDcC5c47242/logo.png"
   },
   {
     "address": "0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df",
@@ -1190,5 +1182,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png"
+  },
+  {
+    "name": "USD+",
+    "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+    "symbol": "USD+",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg"
   }
 ]

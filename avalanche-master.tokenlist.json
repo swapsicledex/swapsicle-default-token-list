@@ -19,7 +19,7 @@
     "decimals": 18,
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",    
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
   },
   {
     "chainId": 43114,
@@ -75,7 +75,7 @@
     "decimals": 18,
     "name": "Yeti Finance",
     "symbol": "YETI",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
   },
   {
     "chainId": 43114,
@@ -83,7 +83,7 @@
     "decimals": 18,
     "name": "BENQI",
     "symbol": "QI",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png" 
   },
   {
     "chainId": 43114,
@@ -91,7 +91,7 @@
     "decimals": 18,
     "name": "chikn egg",
     "symbol": "EGG",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.jpg" 
   },
   {
     "chainId": 43114,
@@ -99,7 +99,7 @@
     "decimals": 18,
     "name": "chikn feed",
     "symbol": "FEED",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png" 
   },
   {
     "chainId": 43114,
@@ -107,7 +107,7 @@
     "decimals": 18,
     "name": "DEFO Token",
     "symbol": "DEFO",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693/logo.png" 
   },
   {
     "chainId": 43114,
@@ -115,7 +115,7 @@
     "decimals": 18,
     "name": "Staked AVAX",
     "symbol": "sAVAX",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.jpg" 
   },
   {
     "chainId": 43114,
@@ -123,7 +123,7 @@
     "decimals": 18,
     "name": "GMX",
     "symbol": "GMX",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.jpg" 
   },
   {
     "chainId": 43114,
@@ -131,7 +131,7 @@
     "decimals": 18,
     "name": "THOR v2",
     "symbol": "THOR",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.jpg" 
   },
   {
     "chainId": 43114,
@@ -139,7 +139,7 @@
     "decimals": 18,
     "name": "Chronicum",
     "symbol": "CHRO",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B/logo.png" 
   },
   {
     "chainId": 43114,
@@ -147,7 +147,7 @@
     "decimals": 18,
     "name": "GrapeVine",
     "symbol": "XGRAPE",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x95CED7c63eA990588F3fd01cdDe25247D04b8D98/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x95CED7c63eA990588F3fd01cdDe25247D04b8D98/logo.png" 
   },
   {
     "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
@@ -211,7 +211,7 @@
     "name": "MIND+",
     "symbol": "MIND+",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x92876C3A3E2B0788C841587a14989392A555BffE/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x92876C3A3E2B0788C841587a14989392A555BffE/logo.png"
   },
   {
     "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
@@ -243,7 +243,7 @@
     "name": "POPSToken",
     "symbol": "POPS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
   },
 
   {
@@ -252,7 +252,7 @@
     "name": "Domi",
     "symbol": "DOMI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
   },
   {
     "address": "0x7c105c37A622EB8586BEAef215d452b3f7Dc9A39",
@@ -260,7 +260,7 @@
     "name": "LavaToken v2",
     "symbol": "LAVA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x7c105c37A622EB8586BEAef215d452b3f7Dc9A39/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x7c105c37A622EB8586BEAef215d452b3f7Dc9A39/logo.png"
   },
   {
     "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
@@ -268,7 +268,7 @@
     "name": "Bitcoin",
     "symbol": "BTC.b",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
   },
   {
     "address": "0x111111111111ed1D73f860F57b2798b683f2d325",
@@ -276,7 +276,7 @@
     "name": "YUSD Stablecoin",
     "symbol": "YUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
   },
   {
     "address": "0x501012893eE88976AB8B5289B7a78E307d5d9DCb",
@@ -284,7 +284,7 @@
     "name": "Narwhal",
     "symbol": "NRWL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x501012893eE88976AB8B5289B7a78E307d5d9DCb/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x501012893eE88976AB8B5289B7a78E307d5d9DCb/logo.png"
   },
   {
     "address": "0x01Af64EF39AEB5612202AA07B3A3829f20c395fd",
@@ -292,7 +292,7 @@
     "name": "Vintage",
     "symbol": "VINTAGE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0x01Af64EF39AEB5612202AA07B3A3829f20c395fd/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x01Af64EF39AEB5612202AA07B3A3829f20c395fd/logo.png"
   },
   {
     "address": "0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A",
@@ -300,7 +300,7 @@
     "name": "Ripple",
     "symbol": "XRP",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/ovx-token-list/master/logos/avalanche/0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/ovx-token-list/master/logos/avalanche/0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A/logo.png"
   },
   {
     "chainId": 43114,
@@ -308,7 +308,7 @@
     "decimals": 6,
     "name": "USD+",
     "symbol": "USD+",
-    "logoURI": "https://raw.githubusercontent.com/Dev-Legion/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg" 
   }
   
 ]
