@@ -45,7 +45,7 @@ module.exports = function buildList() {
       "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
     keywords: ["swapsicle", "default"],
     tokens: [
-      // ...mainnet,
+      ...mainnet,
       // ...ropsten,
       // ...goerli,
       // ...kovan,
@@ -59,7 +59,7 @@ module.exports = function buildList() {
       // ...bscTestnet,
       // ...moonbase,
       ...avalanche,
-      ...optimism
+      ...optimism,
       // ...fuji,
       // ...heco,
       // ...hecoTestnet,
@@ -67,7 +67,7 @@ module.exports = function buildList() {
       // ...harmonyTestnet,
       // ...okex,
       // ...okexTestnet,
-      // ...arbitrum,
+      ...arbitrum,
       // ...celo,
       // ...palm,
       // ...moonriver,
