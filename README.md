@@ -1,6 +1,13 @@
-# @bitgraphix/swapsicle-default-token-list
+# @swapsicledex/swapsicle-default-token-list
 
 This NPM module and GitHub repo contains the default token list used in the Swapsicle interface.
+
+## Deployment
+
+Install npm.
+Ensure logged in with npm login.
+Set the version number in the package.json file.
+Publish with npm publish.
 
 ### Disclaimer
 

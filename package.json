@@ -1,6 +1,6 @@
 {
-  "name": "@bitgraphix/swapsicle-default-token-list",
-  "version": "0.0.33",
+  "name": "@swapsicledex/swapsicle-default-token-list",
+  "version": "1.0.2",
   "description": "◦ The Swapsicle default token list",
   "main": "build/swapsicle-default.tokenlist.json",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dev-Legion/swapsicle-default-token-list.git"
+    "url": "git+https://github.com/swapsicledex/swapsicle-default-token-list.git"
   },
   "publishConfig": {
     "access": "public",
@@ -27,12 +27,12 @@
     "token",
     "list"
   ],
-  "author": "Andreas Billy Sutandi <billyfebram@gmail.com>",
+  "author": "Swapsicle <support@swapsicle.io>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Dev-Legion/swapsicle-default-token-list/issues"
+    "url": "https://github.com/swapsicledex/swapsicle-default-token-list/issues"
   },
-  "homepage": "https://github.com/Dev-Legion/swapsicle-default-token-list#readme",
+  "homepage": "https://github.com/swapsicledex/swapsicle-default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",
