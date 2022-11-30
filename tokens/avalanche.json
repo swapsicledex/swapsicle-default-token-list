@@ -296,5 +296,31 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/ovx-token-list/master/logos/avalanche/0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A/logo.png"
   }
+
+  ,
+  {
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "chainId": 43114,
+    "name": "Stargate",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
+  },
+  {
+    "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "chainId": 43114,
+    "name": "Beefy",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
+  },
+  {
+    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "chainId": 43114,
+    "name": "Avalaunch",
+    "symbol": "XAVA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
+  }
   
 ]
