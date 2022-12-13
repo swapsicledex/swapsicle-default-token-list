@@ -43,17 +43,9 @@
     "address":"0x0Eb3a705fc54725037CC9e008bDede697f62F335",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/cosmos_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png",
     "name":"Cosmos Token",
     "symbol":"ATOM"
- },
- {
-    "address":"0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-    "chainId":56,
-    "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/bakeryswap_32.png",
-    "name":"Bakery Token",
-    "symbol":"BAKE"
  },
  {
     "address":"0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
@@ -83,7 +75,7 @@
     "address":"0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
     "chainId":56,
     "decimals":6,
-    "logoURI":"https://bscscan.com/token/images/blink_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F.png",
     "name":"BLINk",
     "symbol":"BLK"
  },
@@ -99,7 +91,7 @@
     "address":"0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/bscex_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587.png",
     "name":"BSCEX",
     "symbol":"BSCX"
  },
@@ -123,7 +115,7 @@
     "address":"0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/burgerswap_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png",
     "name":"Burger Swap",
     "symbol":"BURGER"
  },
@@ -139,7 +131,7 @@
     "address":"0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/canya_32.png",
+    "logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/2343.png",
     "name":"CanYaCoin",
     "symbol":"CAN"
  },
@@ -379,7 +371,7 @@
     "address":"0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4/logo.png",
+    "logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/10866.png",
     "name":"Million",
     "symbol":"MM"
  },
@@ -435,7 +427,7 @@
     "address":"0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
     "chainId":56,
     "decimals":2,
-    "logoURI":"https://bscscan.com/token/images/ogfan_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c.png",
     "name":"OG",
     "symbol":"OG"
  },
@@ -451,7 +443,7 @@
     "address":"0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/Prometeus_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png",
     "name":"Prometeus",
     "symbol":"PROM"
  },
@@ -467,7 +459,7 @@
     "address":"0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/qianfinance_32.png",
+    "logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/7722.png",
     "name":"QUSD Stablecoin",
     "symbol":"QUSD"
  },
@@ -483,7 +475,7 @@
     "address":"0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://shibawallet.pro/assets/favicon32x32.png",
+    "logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/12944.png",
     "name":"ShibaWallet",
     "symbol":"SHWA"
  },
@@ -515,7 +507,7 @@
     "address":"0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/stablexswap_32.png",
+    "logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/7502.png",
     "name":"StableXSwap",
     "symbol":"STAX"
  },
@@ -531,7 +523,7 @@
     "address":"0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/streamity_32.png",
+    "logoURI":"https://s2.coinmarketcap.com/static/img/coins/64x64/5046.png",
     "name":"Streamity",
     "symbol":"STM"
  },
@@ -555,7 +547,7 @@
     "address":"0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://bscscan.com/token/images/trust_32.png",
+    "logoURI":"https://tokens.pancakeswap.finance/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png",
     "name":"Trust Wallet",
     "symbol":"TWT"
  },
@@ -611,7 +603,7 @@
     "address":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg",
+    "logoURI":"https://tokens.pancakeswap.finance/images/symbol/bnb.png",
     "name":"Wrapped BNB",
     "symbol":"WBNB"
  },
