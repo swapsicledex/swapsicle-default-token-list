@@ -40,14 +40,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
-    "name": "fBNB",
-    "address": "0x27f26F00e1605903645BbaBC0a73E35027Dccd45",
-    "symbol": "fBNB",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
-  },
-  {
     "name": "ChainLink",
     "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
     "symbol": "LINK",
