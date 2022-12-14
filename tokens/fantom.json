@@ -5,7 +5,7 @@
     "symbol": "WFTM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+    "logoURI": "https://assets.spooky.fi/tokens/FTM.png"
   },
   {
     "name": "Staked FTM",
