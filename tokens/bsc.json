@@ -603,7 +603,7 @@
     "address":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId":56,
     "decimals":18,
-    "logoURI":"https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+    "logoURI":"https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/binance/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
     "name":"Wrapped BNB",
     "symbol":"WBNB"
  },
@@ -701,7 +701,7 @@
       "name": "Liquid Staking BNB",
       "symbol": "BNBx",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/bsc/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/binance/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275/logo.png"
    },
    {
       "address": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617",
@@ -709,7 +709,7 @@
       "name": "Bolide",
       "symbol": "BLID",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/bsc/0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/binance/0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617/logo.png"
    },
    {
       "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
@@ -717,6 +717,14 @@
       "name": "AlpacaToken",
       "symbol": "ALPACA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/bsc/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F/logo.png"
-   }
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/binance/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F/logo.png"
+   },
+   {
+      "address": "0xa1051433EC7b5cc249c75Fdd5b96BF423f2f4A32",
+      "chainId": 56,
+      "name": "POPSToken",
+      "symbol": "POPS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
+    }
 ]
