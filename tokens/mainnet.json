@@ -304,14 +304,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060/logo.png"
   },
   {
-    "address": "0x68481f2c02BE3786987ac2bC3327171C5D05F9Bd",
-    "chainId": 1,
-    "name": "Based Loans Ownership",
-    "symbol": "BLO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x68481f2c02BE3786987ac2bC3327171C5D05F9Bd/logo.png"
-  },
-  {
     "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
     "chainId": 1,
     "name": "Bancor",
@@ -774,14 +766,6 @@
     "symbol": "FTM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
-  },
-  {
-    "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
-    "chainId": 1,
-    "name": "FTX Token",
-    "symbol": "FTT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
   },
   {
     "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
@@ -1816,22 +1800,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784.jpg"
   },
   {
-    "address": "0xE1Be5D3f34e89dE342Ee97E6e90D405884dA6c67",
-    "chainId": 1,
-    "name": "TRON",
-    "symbol": "TRX",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xE1Be5D3f34e89dE342Ee97E6e90D405884dA6c67.jpg"
-  },
-  {
-    "address": "0xc12eCeE46ed65D970EE5C899FCC7AE133AfF9b03",
-    "chainId": 1,
-    "name": "TRYfinance",
-    "symbol": "TRY",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/try.jpg"
-  },
-  {
     "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
     "chainId": 1,
     "name": "TrueUSD",
@@ -1885,7 +1853,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
   },
   {
     "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
@@ -1989,7 +1957,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
@@ -2045,7 +2013,7 @@
     "name": "Wrapped XMR",
     "symbol": "WXMR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wxmr.jpg"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8235.png"
   },
   {
     "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
@@ -2136,14 +2104,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ypie.jpg"
   },
   {
-    "address": "0x837010619aeb2AE24141605aFC8f66577f6fb2e7",
-    "chainId": 1,
-    "name": "zHEGIC",
-    "symbol": "ZHEGIC",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zhegic.jpg"
-  },
-  {
     "address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
     "chainId": 1,
     "name": "ZigCoin",
@@ -2198,14 +2158,6 @@
     "symbol": "bDIGG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bdigg.jpg"
-  },
-  {
-    "address": "0x673f9488619821aB4f4155FdFFe06f6139De518F",
-    "chainId": 1,
-    "name": "BarnBridge junior cDAI",
-    "symbol": "bbcDAI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bbcdai.jpg"
   },
   {
     "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
@@ -2390,22 +2342,6 @@
     "symbol": "renZEC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/renzch.jpg"
-  },
-  {
-    "address": "0xeABACD844A196D7Faf3CE596edeBF9900341B420",
-    "chainId": 1,
-    "name": "Synth sCEX",
-    "symbol": "sCEX",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/scex.jpg"
-  },
-  {
-    "address": "0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B",
-    "chainId": 1,
-    "name": "Synth sDEFI",
-    "symbol": "sDEFI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sdefi.jpg"
   },
   {
     "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
@@ -3161,14 +3097,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC",
-    "name": "LevX DAO",
-    "symbol": "LEVX",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC.jpg"
-  },
-  {
-    "chainId": 1,
     "address": "0x470EBf5f030Ed85Fc1ed4C2d36B9DD02e77CF1b7",
     "name": "Temple",
     "symbol": "TEMPLE",
@@ -3429,7 +3357,7 @@
     "name": "Neos Credits",
     "symbol": "NCR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c.jpg"
+    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVJQF2eQoWjJpgN2CuHMuUzbK5ipXaufRiRBUymvcM5GG/"
   },
   {
     "chainId": 1,
@@ -3629,7 +3557,7 @@
     "name": "Bent Finance",
     "symbol": "BENT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x01597E397605Bf280674Bf292623460b4204C375.jpg"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15733.png"
   },
   {
     "address": "0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d",
