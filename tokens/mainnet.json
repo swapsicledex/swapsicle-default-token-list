@@ -3670,5 +3670,13 @@
     "symbol": "APE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
+  },
+  {
+    "address": "0x4470DEDA57a7D6c18FBC8c6a178E986dD54C89c9",
+    "chainId": 1,
+    "name": "POPSToken",
+    "symbol": "POPS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
   }
 ]

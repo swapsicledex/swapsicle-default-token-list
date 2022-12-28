@@ -819,7 +819,7 @@
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
         "extensions": {
           "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
         }
@@ -856,5 +856,18 @@
         "extensions": {
           "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
         }
+      },
+      {
+        "chainId": 10,
+        "address": "0x3D51a9fB5dCc87F7B237B04975559b920a9a56Ff",
+        "name": "POPSToken",
+        "symbol": "POPS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+        "extensions": {
+          "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
       }
+        
+      
     ]
