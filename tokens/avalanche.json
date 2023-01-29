@@ -247,6 +247,14 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
   },
+  {
+    "address": "0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4",
+    "chainId": 43114,
+    "name": "Staked POPSToken",
+    "symbol": "sPOPS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg"
+  },
 
   {
     "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
