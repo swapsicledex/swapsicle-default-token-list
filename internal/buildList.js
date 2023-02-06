@@ -42,8 +42,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["swapsicle", "default"],
+      "ipfs://QmU6GmyWgu6Sv39RPG2iU4YsquXW1XgaRMkigZDyT48vKs",
+    keywords: ["swapsicle", "default", "verified", "audited"],
     tokens: [
       ...mainnet,
       // ...ropsten,
@@ -72,7 +72,7 @@ module.exports = function buildList() {
       // ...palm,
       // ...moonriver,
       // ...fuse,
-      // ...telos,
+       ...telos,
       // ...moonbeam,
     ]
       // sort them by symbol for easy readability
