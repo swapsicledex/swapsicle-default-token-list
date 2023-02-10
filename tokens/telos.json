@@ -9,9 +9,57 @@
   },
   {
     "chainId": 41,
-    "address": "0xaE85Bf723A9e74d6c663dd226996AC1b8d075AA9",
-    "symbol": "WTLOS",
-    "name": "Wrapped TLOS",
+    "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
+    "symbol": "WCOIN",
+    "name": "Wrapped Coin",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0xB38239b39f141CB9CdBf25e86f5eD37a6915d2DD",
+    "symbol": "TUSD",
+    "name": "TEST USD",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0xCb50b82De7572597eed70F9c095979C2bDDF72D2",
+    "symbol": "MOON",
+    "name": "Mooncoin",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0x0d55bC35eD96BFBf8C25530C97C9805B0914deB2",
+    "symbol": "LAMBO",
+    "name": "LamboCoin",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0x7A2155237A67D640Db19ed63d2d10828bC88db8F",
+    "symbol": "PUMP",
+    "name": "PUMPCoin",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0xB23be76e0b54eEd09E426B541F97Ae87849a6FB5",
+    "symbol": "DUMP",
+    "name": "DUMPCoin",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0x8309Bc8BB43fB54dB02DA7d8bf87192355532829",
+    "symbol": "FOMO",
+    "name": "FOMOCoin",
     "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
     "decimals": 18
   },
