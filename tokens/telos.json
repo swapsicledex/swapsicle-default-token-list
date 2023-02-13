@@ -90,8 +90,8 @@
   {
     "chainId": 40,
     "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-    "symbol": "ETH",
-    "name": "Ethereum",
+    "symbol": "WETH",
+    "name": "Wrapped Ethereum",
     "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
     "decimals": 18
   },
@@ -114,7 +114,7 @@
   {
     "chainId": 40,
     "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
-    "symbol": "AVAX",
+    "symbol": "WAVAX",
     "name": "Avalanche",
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
     "decimals": 18
@@ -122,7 +122,7 @@
   {
     "chainId": 40,
     "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
-    "symbol": "BNB",
+    "symbol": "WBNB",
     "name": "Binance Coin",
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
     "decimals": 18
@@ -130,7 +130,7 @@
   {
     "chainId": 40,
     "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
-    "symbol": "FTM",
+    "symbol": "WFTM",
     "name": "Fantom",
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
     "decimals": 18
@@ -138,33 +138,9 @@
   {
     "chainId": 40,
     "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
-    "symbol": "MATIC",
+    "symbol": "WMATIC",
     "name": "Polygon",
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
-    "symbol": "SUSHI",
-    "name": "Sushi",
-    "logoURI": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
-    "symbol": "ZAP",
-    "name": "Zappy",
-    "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9A271E3748F59222f5581BaE2540dAa5806b3F77/logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
-    "symbol": "CHARM",
-    "name": "Omnidex",
-    "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
     "decimals": 18
   },
   {
@@ -281,26 +257,10 @@
   },
   {
     "chainId": 40,
-    "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-    "symbol": "ELK",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-    "name": "ELK",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
     "address": "0xCC47EB13916a76e262b0EE48A71e3c7953091e7a",
     "symbol": "SWAP",
     "logoURI": "https://raw.githubusercontent.com/evm20/tokens/main/swaptoken.svg",
     "name": "SWAP",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
-    "symbol": "BANANA",
-    "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
-    "name": "ApeSwap Finance Banana",
     "decimals": 18
   },
   {
@@ -318,21 +278,21 @@
     "name": "Archly Arc",
     "logoURI": "https://archly.fi/tokens/arc-logo.png",
     "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
+    "symbol": "POPS",
+    "name": "POPS Token",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+    "decimals": 18
     },
     {
-      "chainId": 40,
-      "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
+      "chainId": 41,
+      "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
       "symbol": "POPS",
       "name": "POPS Token",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
       "decimals": 18
-      },
-      {
-        "chainId": 41,
-        "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
-        "symbol": "POPS",
-        "name": "POPS Token",
-        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
-        "decimals": 18
-        }
+    }
 ]
