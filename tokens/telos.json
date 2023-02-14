@@ -68,7 +68,7 @@
     "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
     "symbol": "STLOS",
     "name": "Staked TLOS",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
     "decimals": 18
   },
   {
@@ -76,7 +76,7 @@
     "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
     "symbol": "STLOS",
     "name": "Staked TLOS",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
     "decimals": 18
   },
   {
@@ -284,7 +284,7 @@
     "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
     "symbol": "POPS",
     "name": "POPS Token",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
     "decimals": 18
     },
     {
@@ -292,7 +292,7 @@
       "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
       "symbol": "POPS",
       "name": "POPS Token",
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
       "decimals": 18
     }
 ]
