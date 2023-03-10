@@ -116,7 +116,7 @@
     "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
     "symbol": "WAVAX",
     "name": "Avalanche",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/AVAX/logo.png",
     "decimals": 18
   },
   {
@@ -140,7 +140,7 @@
     "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
     "symbol": "WMATIC",
     "name": "Polygon",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/MATIC/logo.png",
     "decimals": 18
   },
   {
@@ -293,6 +293,14 @@
       "symbol": "POPS",
       "name": "POPS Token",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 40,
+      "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
+      "symbol": "PE",
+      "name": "Positron",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
       "decimals": 18
     }
 ]
