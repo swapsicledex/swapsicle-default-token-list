@@ -25,6 +25,14 @@
   },
   {
     "chainId": 41,
+    "address": "0x00d2ebBd02EbC51dE3fb9aaed5F9eFD7502b0284",
+    "symbol": "TGBP",
+    "name": "TEST GBP",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "decimals": 6
+  },
+  {
+    "chainId": 41,
     "address": "0xCb50b82De7572597eed70F9c095979C2bDDF72D2",
     "symbol": "MOON",
     "name": "Mooncoin",
