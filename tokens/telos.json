@@ -21,7 +21,7 @@
     "symbol": "TUSD",
     "name": "TEST USD",
     "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
-    "decimals": 18
+    "decimals": 6
   },
   {
     "chainId": 41,
