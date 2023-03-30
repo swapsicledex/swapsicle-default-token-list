@@ -310,5 +310,13 @@
       "name": "Positron",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
       "decimals": 18
+    },
+    {
+      "chainId": 40,
+      "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
+      "symbol": "RBN",
+      "name": "Robinos",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.svg",
+      "decimals": 6
     }
 ]
