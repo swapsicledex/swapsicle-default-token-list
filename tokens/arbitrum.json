@@ -5,7 +5,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
   },
   {
     "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
@@ -13,7 +13,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png"
   },
   {
     "chainId": 42161,
@@ -134,7 +134,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
   },
   {
     "chainId": 42161,
@@ -186,14 +186,6 @@
   },
   {
     "chainId": 42161,
-    "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-  },
-  {
-    "chainId": 42161,
     "address": "0x955b9fe60a5b5093df9Dc4B1B18ec8e934e77162",
     "name": "Swapr",
     "symbol": "SWPR",
@@ -214,7 +206,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
   },
   {
     "chainId": 42161,
@@ -238,7 +230,15 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2297aEbD383787A160DD0d9F71508148769342E3",
+    "name": "Bitcoin",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2297aEbD383787A160DD0d9F71508148769342E3/logo.png"
   },
   {
     "chainId": 42161,
@@ -279,7 +279,7 @@
     "name": "ArbiNYAN",
     "symbol": "NYAN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/18309/small/Qmf8DSV4RbSuVRLJvmj4WwEMjwtYcCd53EFXPPjkEwzx4B.png"
   },
   {
     "chainId": 42161,
@@ -295,7 +295,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png"
   },
   {
     "chainId": 42161,
@@ -303,7 +303,7 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/15861/small/abracadabra-3.png"
   },
   {
     "chainId": 42161,
@@ -439,7 +439,7 @@
     "name": "Flux Protocol",
     "symbol": "FLUX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/15002/small/logo.dabc411c.png"
   },
   {
     "chainId": 42161,
@@ -495,7 +495,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/13422/small/FRAX_icon.png"
   },
   {
     "address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
@@ -503,7 +503,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png"
   },
   {
     "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
@@ -519,7 +519,7 @@
     "name": "FluidFi",
     "symbol": "FLUID",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA/logo.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/20428/small/FluidFi_Logo_32x32px_vtvcai.png"
   },
   {
     "address": "0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709",
@@ -527,7 +527,7 @@
     "name": "DigitalDollar",
     "symbol": "DUSD",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/23731/small/icon_dusd_2_kvy1zn.png"
   },
   {
     "address": "0xa0b20DecBc557E3f68E140eD5a0c69bc865F865A",
@@ -536,5 +536,13 @@
     "symbol": "POPS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
+  },
+  {
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "chainId": 42161,
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
   }
 ]
