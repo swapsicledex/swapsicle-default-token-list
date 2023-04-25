@@ -345,6 +345,14 @@
     "symbol": "ASG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xF36de0989d83FDc554FC7b93E5D10722677CCFBC/logo.png"
+  },
+  {
+    "address": "0xF14f4CE569cB3679E99d5059909E23B07bd2F387",
+    "chainId": 43114,
+    "name": "NXUSD",
+    "symbol": "NXUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25101/small/nxusd-logo.png"
   }
   
 ]
