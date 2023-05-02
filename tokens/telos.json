@@ -309,7 +309,7 @@
       "symbol": "PE",
       "name": "Positron",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
-      "decimals": 4
+      "decimals": 14
     },
     {
       "chainId": 40,
