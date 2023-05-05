@@ -350,6 +350,14 @@
       "symbol": "FORT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF/logo.png"
+    },
+    {
+      "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
+      "chainId": 40,
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
     }
 
 ]
