@@ -358,6 +358,14 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
+    },
+    {
+      "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
+      "chainId": 40,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
     }
 
 ]
