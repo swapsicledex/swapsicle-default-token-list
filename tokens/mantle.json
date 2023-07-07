@@ -1,0 +1,50 @@
+[
+  {
+    "chainId": 5001,
+    "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+    "symbol": "WMNT",
+    "name": "Wrapped MNT",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/MNT/logo.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 5001,
+    "address": "0x08f7340Df921f5559fecE57fAbE39Bb49930680e",
+    "symbol": "MOON",
+    "name": "MOONCoin",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 5001,
+    "address": "0x03727C5a873117137558710A99a793369378B7dC",
+    "symbol": "LAMBO",
+    "name": "LamboCoin",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 5001,
+    "address": "0x06C6e5640e6CADF93072003D73ECD8d47B91626A",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
+    "decimals": 8
+  },
+  {
+    "chainId": 5001,
+    "address": "0x7Ac3e85331fC614716A2e4ef3D3F8229A42E7412",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+    "decimals": 18
+  },
+  {
+    "chainId": 5001,
+    "address": "0x104e77b8d9fafFc6F8ef1Cc3b56a9B20667c5A64",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+  }
+]
