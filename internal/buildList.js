@@ -27,6 +27,7 @@ const palm = require("../tokens/palm.json");
 const moonriver = require("../tokens/moonriver.json");
 const fuse = require("../tokens/fuse.json");
 const telos = require("../tokens/telos.json");
+const mantle = require("../tokens/mantle.json");
 const moonbeam = require("../tokens/moonbeam.json");
 const optimism = require("../tokens/optimism.json");
 
@@ -73,6 +74,7 @@ module.exports = function buildList() {
       // ...moonriver,
       // ...fuse,
        ...telos,
+       ...mantle,
       // ...moonbeam,
     ]
       // sort them by symbol for easy readability

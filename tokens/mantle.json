@@ -46,5 +46,21 @@
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+  },
+  {
+    "chainId": 5001,
+    "address": "0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0",
+    "symbol": "SLUSH",
+    "name": "Swapsicle Slush",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0/logo.png"
+  },
+  {
+    "chainId": 5001,
+    "address": "0xe914f36c0bcf7472a6b8f309de3b45c5bce79931",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
   }
 ]
