@@ -294,85 +294,93 @@
     "name": "POPS Token",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
     "decimals": 18
-    },
-    {
-      "chainId": 41,
-      "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
-      "symbol": "POPS",
-      "name": "POPS Token",
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
-      "decimals": 18
-    },
-    {
-      "chainId": 40,
-      "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
-      "symbol": "PE",
-      "name": "Positron",
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
-      "decimals": 4
-    },
-    {
-      "chainId": 40,
-      "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
-      "symbol": "RBN",
-      "name": "Robinos",
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.svg",
-      "decimals": 6
-    },
-    {
-      "chainId": 40,
-      "address": "0xda991DcA2BC4ac23774Fb98e03C89552F70F9B9c",
-      "symbol": "NBBL",
-      "name": "Nibble",
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xD68E69e2B5AE5baB29ff2DD363Ce1685465Df531/logo.png",
-      "decimals": 18
-    },
-    {
-      "address": "0x14e374cef17d800109710aa2c2d73e50db76d367",
-      "chainId": 40,
-      "name": "Staked POPSToken",
-      "symbol": "sPOPS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg"
-    },
-    {
-      "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
-      "chainId": 40,
-      "name": "Destiny Coin",
-      "symbol": "DECO",
-      "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A/logo.png"
-    },
-    {
-      "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
-      "chainId": 40,
-      "name": "Fortis Coin",
-      "symbol": "FORT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF/logo.png"
-    },
-    {
-      "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
-      "chainId": 40,
-      "name": "Pepe",
-      "symbol": "PEPE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
-    },
-    {
-      "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
-      "chainId": 40,
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
-    },
-    {
-      "address": "0xa908d24C7b557461f9FD94eC62759345f9a3aC6E",
-      "chainId": 40,
-      "name": "Appics Token",
-      "symbol": "APX",
-      "decimals": 4,
-      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xa908d24C7b557461f9FD94eC62759345f9a3aC6E/logo.png"
-    }
+  },
+  {
+    "chainId": 41,
+    "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
+    "symbol": "POPS",
+    "name": "POPS Token",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
+    "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
+    "symbol": "PE",
+    "name": "Positron",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
+    "decimals": 4
+  },
+  {
+    "chainId": 40,
+    "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
+    "symbol": "RBN",
+    "name": "Robinos",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.svg",
+    "decimals": 6
+  },
+  {
+    "chainId": 40,
+    "address": "0xda991DcA2BC4ac23774Fb98e03C89552F70F9B9c",
+    "symbol": "NBBL",
+    "name": "Nibble",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xD68E69e2B5AE5baB29ff2DD363Ce1685465Df531/logo.png",
+    "decimals": 18
+  },
+  {
+    "address": "0x14e374cef17d800109710aa2c2d73e50db76d367",
+    "chainId": 40,
+    "name": "Staked POPSToken",
+    "symbol": "sPOPS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg"
+  },
+  {
+    "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
+    "chainId": 40,
+    "name": "Destiny Coin",
+    "symbol": "DECO",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A/logo.png"
+  },
+  {
+    "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
+    "chainId": 40,
+    "name": "Fortis Coin",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF/logo.png"
+  },
+  {
+    "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
+    "chainId": 40,
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
+  },
+  {
+    "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
+    "chainId": 40,
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "address": "0xa908d24C7b557461f9FD94eC62759345f9a3aC6E",
+    "chainId": 40,
+    "name": "Appics Token",
+    "symbol": "APX",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xa908d24C7b557461f9FD94eC62759345f9a3aC6E/logo.png"
+  },
+  {
+    "address": "0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9",
+    "chainId": 40,
+    "name": "Kemonomimi",
+    "symbol": "MIMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
+  }
 ]
