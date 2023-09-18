@@ -29,7 +29,7 @@
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
     "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 5001,
