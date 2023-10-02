@@ -10,8 +10,8 @@
   {
     "chainId": 41,
     "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
-    "symbol": "WCOIN",
-    "name": "Wrapped Coin",
+    "symbol": "WTLOS",
+    "name": "Wrapped Telos",
     "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
     "decimals": 18
   },
@@ -85,70 +85,6 @@
     "symbol": "STLOS",
     "name": "Staked TLOS",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
-    "symbol": "WBTC",
-    "name": "Wrapped Bitcoin",
-    "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
-    "decimals": 8
-  },
-  {
-    "chainId": 40,
-    "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-    "symbol": "ETH",
-    "name": "Ethereum",
-    "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-    "symbol": "USDC",
-    "name": "USD Coin",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
-  },
-  {
-    "chainId": 40,
-    "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
-    "symbol": "USDT",
-    "name": "Tether Stable Coin",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
-    "decimals": 6
-  },
-  {
-    "chainId": 40,
-    "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
-    "symbol": "AVAX",
-    "name": "Avalanche",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/AVAX/logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
-    "symbol": "BNB",
-    "name": "Binance Coin",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
-    "symbol": "FTM",
-    "name": "Fantom",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
-    "symbol": "MATIC",
-    "name": "Polygon",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/MATIC/logo.png",
     "decimals": 18
   },
   {
@@ -281,30 +217,6 @@
   },
   {
     "chainId": 40,
-    "address": "0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5",
-    "symbol": "Arc",
-    "name": "Archly Arc",
-    "logoURI": "https://archly.fi/tokens/arc-logo.png",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
-    "symbol": "POPS",
-    "name": "POPS Token",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
-    "decimals": 18
-  },
-  {
-    "chainId": 41,
-    "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
-    "symbol": "POPS",
-    "name": "POPS Token",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
     "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
     "symbol": "PE",
     "name": "Positron",
@@ -326,14 +238,6 @@
     "name": "Nibble",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xD68E69e2B5AE5baB29ff2DD363Ce1685465Df531/logo.png",
     "decimals": 18
-  },
-  {
-    "address": "0x14e374cef17d800109710aa2c2d73e50db76d367",
-    "chainId": 40,
-    "name": "Staked POPSToken",
-    "symbol": "sPOPS",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg"
   },
   {
     "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
@@ -360,14 +264,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
   },
   {
-    "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
-    "chainId": 40,
-    "name": "ChainLink Token",
-    "symbol": "LINK",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
-  },
-  {
     "address": "0xa908d24C7b557461f9FD94eC62759345f9a3aC6E",
     "chainId": 40,
     "name": "Appics Token",
@@ -383,4 +279,5 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
   }
+
 ]
