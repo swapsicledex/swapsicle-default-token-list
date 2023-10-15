@@ -64,14 +64,6 @@
     "decimals": 18
   },
   {
-    "chainId": 41,
-    "address": "0x8309Bc8BB43fB54dB02DA7d8bf87192355532829",
-    "symbol": "FOMO",
-    "name": "FOMOCoin",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
-    "decimals": 18
-  },
-  {
     "chainId": 40,
     "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
     "symbol": "STLOS",
@@ -279,5 +271,4 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
   }
-
 ]

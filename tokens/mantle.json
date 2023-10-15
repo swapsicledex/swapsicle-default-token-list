@@ -57,7 +57,7 @@
   },
   {
     "chainId": 5000,
-    "address": "0x8309bc8bb43fb54db02da7d8bf87192355532829",
+    "address": "0x8309Bc8BB43fB54dB02DA7d8bf87192355532829",
     "symbol": "SLUSH",
     "name": "Swapsicle Slush",
     "decimals": 18,
