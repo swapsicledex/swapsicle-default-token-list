@@ -8,6 +8,134 @@
     "decimals": 18
   },
   {
+    "chainId": 40,
+    "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
+    "symbol": "STLOS",
+    "name": "Staked TLOS",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
+    "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0xCC47EB13916a76e262b0EE48A71e3c7953091e7a",
+    "symbol": "SWAP",
+    "logoURI": "https://raw.githubusercontent.com/evm20/tokens/main/swaptoken.svg",
+    "name": "SWAP",
+    "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
+    "symbol": "PE",
+    "name": "Positron",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
+    "decimals": 4
+  },
+  {
+    "chainId": 40,
+    "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
+    "symbol": "RBN",
+    "name": "Robinos",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.svg",
+    "decimals": 6
+  },
+  {
+    "chainId": 40,
+    "address": "0xda991DcA2BC4ac23774Fb98e03C89552F70F9B9c",
+    "symbol": "NBBL",
+    "name": "Nibble",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xD68E69e2B5AE5baB29ff2DD363Ce1685465Df531/logo.png",
+    "decimals": 18
+  },
+  {
+    "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
+    "chainId": 40,
+    "name": "Destiny Coin",
+    "symbol": "DECO",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A/logo.png"
+  },
+  {
+    "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
+    "chainId": 40,
+    "name": "Fortis Coin",
+    "symbol": "FORT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF/logo.png"
+  },
+  {
+    "address": "0xa908d24C7b557461f9FD94eC62759345f9a3aC6E",
+    "chainId": 40,
+    "name": "Appics Token",
+    "symbol": "APX",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xa908d24C7b557461f9FD94eC62759345f9a3aC6E/logo.png"
+  },
+  {
+    "address": "0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9",
+    "chainId": 40,
+    "name": "Kemonomimi",
+    "symbol": "MIMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
+  },
+  {
+    "chainId": 40,
+    "address": "0xac45ede2098bc989dfe0798b4630872006e24c3f",
+    "symbol": "SLUSH",
+    "name": "Swapsicle Slush",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
+  },
+  {
+    "chainId": 40,
+    "address": "0xaae65b3b41f7c372c729b59b08ca93d53e9b79b3",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
+  },
+  {
+    "name": "USD Tether",
+    "symbol": "USDT",
+    "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae.png"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9.png"
+  },
+  {
+    "name": "Ether",
+    "symbol": "WETH",
+    "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
+    "chainId": 40,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "BTCb",
+    "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
+    "chainId": 40,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2.png"
+  },
+  {
+    "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
+    "chainId": 40,
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+  },
+  {
     "chainId": 41,
     "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
     "symbol": "WTLOS",
@@ -64,227 +192,11 @@
     "decimals": 18
   },
   {
-    "chainId": 40,
-    "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
-    "symbol": "STLOS",
-    "name": "Staked TLOS",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
-    "decimals": 18
-  },
-  {
     "chainId": 41,
     "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
     "symbol": "STLOS",
     "name": "Staked TLOS",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
     "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
-    "symbol": "DOUGE",
-    "name": "DougeCoin",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
-    "symbol": "JRS",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/JesseRocketTokenLogo1.png",
-    "name": "Jesse Rocket Super Coin",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
-    "symbol": "TM",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/TelosMemeLogo.png",
-    "name": "TM Coin",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
-    "symbol": "DLOS",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/dogelosLogo.png",
-    "name": "DogeLos",
-    "decimals": 0
-  },
-  {
-    "chainId": 40,
-    "address": "0x6439DA210988b1fD8DAC8b31CD000a7087416824",
-    "symbol": "BEVIL",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/BabyEvilsLogo.png",
-    "name": "BabyEvils",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x1aCA60694d12A99fa5DdD1C78493b6eFd7416601",
-    "symbol": "ARIS",
-    "logoURI": "https://i.imgur.com/iYmGhdu.png",
-    "name": "Aristotle",
-    "decimals": 9
-  },
-  {
-    "chainId": 40,
-    "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
-    "symbol": "DOG",
-    "logoURI": "https://gateway.ipfs.io/ipfs/QmerrZ47zBxoQqkr4gfY53wvoAUqn3JXs6R6VCfE4s9nkK",
-    "name": "Glue Dog",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x470Bb4C2499726DC7329A7874E82b9b3578eA891",
-    "symbol": "USDOG",
-    "logoURI": "https://glue.dog/wp-content/uploads/2022/02/stabledog-768x630.png",
-    "name": "Stabledog",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
-    "symbol": "PIG",
-    "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
-    "name": "Big Pig",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x8b377acebccf930fec65e9ccb693bdb1be3fd3c0",
-    "symbol": "PLOU",
-    "logoURI": "https://raw.githubusercontent.com/Geilogandet/token-list/cf290bf5297be0842ada7ad10f7f70bbaf718c05/Ploutus.png",
-    "name": "Ploutus",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x2f15F85a6c346C0a2514Af70075259e503E7137B",
-    "symbol": "DMMY",
-    "logoURI": "https://omnidex.finance/images/tokens/0x2f15F85a6c346C0a2514Af70075259e503E7137B.svg",
-    "name": "dummy☻DAO",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xEC0a873cdBE667E5bD68AF47932c948f872032d6",
-    "symbol": "GATe",
-    "logoURI": "https://gat.network/gat-logo-200x200.png",
-    "name": "Game Ace Token Extended",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
-    "symbol": "APISH",
-    "logoURI": "https://apish.me/images/token.png",
-    "name": "APISH ME",
-    "decimals": 9
-  },
-  {
-    "chainId": 40,
-    "address": "0xa5E5cf79494643d509A076e3895547086f47a6F1",
-    "symbol": "TSQRL",
-    "logoURI": "https://3hlzh7.dstor.cloud/ipfs/QmbL7uYYp7sZ6URYua1RdWw6MPLR7jnZisMfLbPEhuurKw?filename=TSQRL.png",
-    "name": "T-Squirrel",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xCC47EB13916a76e262b0EE48A71e3c7953091e7a",
-    "symbol": "SWAP",
-    "logoURI": "https://raw.githubusercontent.com/evm20/tokens/main/swaptoken.svg",
-    "name": "SWAP",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0x72397e7A188EFA8e9BbBa5cBEb4a4bC92752A59a",
-    "symbol": "Y365",
-    "logoURI": "https://365year.net/images/logo.png",
-    "name": "Year 365",
-    "decimals": 18
-  },
-  {
-    "chainId": 40,
-    "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
-    "symbol": "PE",
-    "name": "Positron",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xE56c325a68b489812081E8A7b60b4017fd2AD280/logo.svg",
-    "decimals": 4
-  },
-  {
-    "chainId": 40,
-    "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
-    "symbol": "RBN",
-    "name": "Robinos",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.svg",
-    "decimals": 6
-  },
-  {
-    "chainId": 40,
-    "address": "0xda991DcA2BC4ac23774Fb98e03C89552F70F9B9c",
-    "symbol": "NBBL",
-    "name": "Nibble",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xD68E69e2B5AE5baB29ff2DD363Ce1685465Df531/logo.png",
-    "decimals": 18
-  },
-  {
-    "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
-    "chainId": 40,
-    "name": "Destiny Coin",
-    "symbol": "DECO",
-    "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A/logo.png"
-  },
-  {
-    "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
-    "chainId": 40,
-    "name": "Fortis Coin",
-    "symbol": "FORT",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF/logo.png"
-  },
-  {
-    "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
-    "chainId": 40,
-    "name": "Pepe",
-    "symbol": "PEPE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
-  },
-  {
-    "address": "0xa908d24C7b557461f9FD94eC62759345f9a3aC6E",
-    "chainId": 40,
-    "name": "Appics Token",
-    "symbol": "APX",
-    "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xa908d24C7b557461f9FD94eC62759345f9a3aC6E/logo.png"
-  },
-  {
-    "address": "0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9",
-    "chainId": 40,
-    "name": "Kemonomimi",
-    "symbol": "MIMI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
-  },
-  {
-    "chainId": 40,
-    "address": "0xac45ede2098bc989dfe0798b4630872006e24c3f",
-    "symbol": "SLUSH",
-    "name": "Swapsicle Slush",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
-  },
-  {
-    "chainId": 40,
-    "address": "0xaae65b3b41f7c372c729b59b08ca93d53e9b79b3",
-    "symbol": "ICE",
-    "name": "Swapsicle Ice",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
   }
 ]
