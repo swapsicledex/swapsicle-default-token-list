@@ -270,5 +270,21 @@
     "symbol": "MIMI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
+  },
+  {
+    "chainId": 40,
+    "address": "0xac45ede2098bc989dfe0798b4630872006e24c3f",
+    "symbol": "SLUSH",
+    "name": "Swapsicle Slush",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
+  },
+  {
+    "chainId": 40,
+    "address": "0xaae65b3b41f7c372c729b59b08ca93d53e9b79b3",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
   }
 ]
