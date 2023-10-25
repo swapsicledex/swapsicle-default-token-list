@@ -113,7 +113,7 @@
   },
   {
     "name": "Ether",
-    "symbol": "WETH",
+    "symbol": "ETH",
     "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
     "chainId": 40,
     "decimals": 18,
