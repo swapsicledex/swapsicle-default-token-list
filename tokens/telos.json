@@ -136,6 +136,14 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
   {
+    "chainId": 40,
+    "address": "0x7097Ee02465FB494841740B1a2b63c21Eed655E7",
+    "symbol": "BANANA",
+    "name": "Banana",
+    "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png",
+    "decimals": 18
+  },
+  {
     "chainId": 41,
     "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
     "symbol": "WTLOS",
