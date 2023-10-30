@@ -141,7 +141,7 @@
     "symbol": "BANANA",
     "name": "Banana",
     "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png",
-    "decimals": 18
+    "decimals": 4
   },
   {
     "chainId": 41,
