@@ -28,7 +28,7 @@
     "address": "0x06C6e5640e6CADF93072003D73ECD8d47B91626A",
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
-    "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
     "decimals": 18
   },
   {
