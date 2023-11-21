@@ -4,7 +4,7 @@
     "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
     "symbol": "WTLOS",
     "name": "Wrapped TLOS",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 18
   },
   {
@@ -148,7 +148,7 @@
     "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
     "symbol": "WTLOS",
     "name": "Wrapped Telos",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 18
   },
   {
@@ -156,7 +156,7 @@
     "address": "0xB38239b39f141CB9CdBf25e86f5eD37a6915d2DD",
     "symbol": "TUSD",
     "name": "TEST USD",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 6
   },
   {
@@ -164,7 +164,7 @@
     "address": "0x00d2ebBd02EbC51dE3fb9aaed5F9eFD7502b0284",
     "symbol": "TGBP",
     "name": "TEST GBP",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 6
   },
   {
@@ -172,7 +172,7 @@
     "address": "0xCb50b82De7572597eed70F9c095979C2bDDF72D2",
     "symbol": "MOON",
     "name": "Mooncoin",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 18
   },
   {
@@ -180,7 +180,7 @@
     "address": "0x0d55bC35eD96BFBf8C25530C97C9805B0914deB2",
     "symbol": "LAMBO",
     "name": "LamboCoin",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 18
   },
   {
@@ -188,7 +188,7 @@
     "address": "0x7A2155237A67D640Db19ed63d2d10828bC88db8F",
     "symbol": "PUMP",
     "name": "PUMPCoin",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.pngg",
     "decimals": 18
   },
   {
@@ -196,7 +196,7 @@
     "address": "0xB23be76e0b54eEd09E426B541F97Ae87849a6FB5",
     "symbol": "DUMP",
     "name": "DUMPCoin",
-    "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 18
   },
   {
