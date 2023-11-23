@@ -144,6 +144,22 @@
     "decimals": 4
   },
   {
+    "chainId": 40,
+    "address": "0x533B3E249fDDa773779fe585646dC53058F214c7",
+    "symbol": "USDM",
+    "name": "USDM Stablecoin",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x533B3E249fDDa773779fe585646dC53058F214c7/logo.png",
+    "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9",
+    "symbol": "TKIND",
+    "name": "KINDNESS FOR THE SOUL ",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9/logo.png",
+    "decimals": 9
+  },
+  {
     "chainId": 41,
     "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
     "symbol": "WTLOS",
@@ -188,7 +204,7 @@
     "address": "0x7A2155237A67D640Db19ed63d2d10828bC88db8F",
     "symbol": "PUMP",
     "name": "PUMPCoin",
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.pngg",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/TLOS/logo.png",
     "decimals": 18
   },
   {
