@@ -1,6 +1,6 @@
 {
   "name": "@swapsicledex/swapsicle-default-token-list",
-  "version": "2.0.39",
+  "version": "2.0.40",
   "description": "◦ The Swapsicle default token list",
   "main": "build/swapsicle-default.tokenlist.json",
   "scripts": {
