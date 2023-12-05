@@ -112,6 +112,14 @@
     "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9.png"
   },
   {
+    "name": "syUSDC",
+    "symbol": "syUSDC",
+    "address": "0xe6E5f3d264117E030C21920356641DbD5B3d660c",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9.png"
+  },
+  {
     "name": "Ether",
     "symbol": "ETH",
     "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
