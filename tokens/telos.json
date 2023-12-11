@@ -168,6 +168,22 @@
     "decimals": 18
   },
   {
+    "chainId": 40,
+    "address": "0x78E05bC07e498f3191288c72a96Fe1c4f7f6Bdef",
+    "symbol": "TSOUL",
+    "name": "TSOUL",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9/logo.png",
+    "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9",
+    "symbol": "TKIND",
+    "name": "TKIND",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x5FB2E2e655d03636B30c4e1AC1C96dD16330bdE9/logo.png",
+    "decimals": 9
+  },
+  {
     "chainId": 41,
     "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
     "symbol": "WTLOS",
