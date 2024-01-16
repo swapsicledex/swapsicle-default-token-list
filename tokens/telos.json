@@ -246,5 +246,21 @@
     "name": "Staked TLOS",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905/logo.png",
     "decimals": 18
+  },
+  {
+    "chainId": 41,
+    "address": "0xB4A11f5A1ce1cF06a6468D95c52832A77a37904B",
+    "symbol": "SLUSH",
+    "name": "Swapsicle Slush",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
+  },
+  {
+    "chainId": 41,
+    "address": "0x20354578aA6963395ae709e8D9CbDD0A5C6251db",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
   }
 ]
