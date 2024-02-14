@@ -215,5 +215,13 @@
     "chainId": 5000,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x5bE26527e817998A7206475496fDE1E68957c5A6/logo.png"
+  },
+  {
+    "name": "Mantle Dragon",
+    "symbol": "MDragon",
+    "address": "0x217B4382a1De262C0FBa97C1B8378904B4a25e4D",
+    "chainId": 5000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x217B4382a1De262C0FBa97C1B8378904B4a25e4D/logo.png"
   }
 ]
