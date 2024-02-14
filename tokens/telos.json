@@ -270,5 +270,143 @@
     "name": "Swapsicle Ice",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
+  },
+  {
+    "name": "Atletico",
+    "symbol": "Atletico",
+    "address": "0x69138D01231aE2532248C8709454aB2189FFC4B2",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1-qIX_BVKgpM1fFdNqrf30c6Y6TYfqOMg"
+  },
+  {
+    "name": "Arsenal",
+    "symbol": "Arsenal",
+    "address": "0xAe7af84eB790009125c542E65f35C6911B728CE5",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1AsYtImwKbDIuiOJH0gHMXAtoM1nH84IQ"
+  },
+  {
+    "name": "Barcelona",
+    "symbol": "Barcelona",
+    "address": "0xE219b48CE12f98FF153724960D11A8fD2307F32a",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1m346Kt0cLfLSYiWuc40zB5bcV_i0H-ne"
+  },
+  {
+    "name": "Bayern",
+    "symbol": "Bayern",
+    "address": "0x7768f965577EEA1091bEEC9e94AE73a5fD191036",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/16WupMMIDJoP3gcyeDDkjjN6nAvYISbXP"
+  },
+
+  {
+    "name": "Copenhagen",
+    "symbol": "Copenhagen",
+    "address": "0x94475CdF2F652b0d08273219016346DcC3603036",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1l9DoSSTNLTuVmlAT2q7mwPVnUwTJnFBq"
+  },
+
+  {
+    "name": "Dortmund",
+    "symbol": "Dortmund",
+    "address": "0x8e180CBe07A20164FA512A0EeF2cea5fe8cE0012",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1vbtDMkbAESqdWCbjg24_7wNLDR4_kQ2B"
+  },
+
+  {
+    "name": "Inter",
+    "symbol": "Inter",
+    "address": "0x63364469D9AdefCC8300D3c73e2A2952CeE23cf2",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1ks05nZ5xisW7gJg3gLqP_9i2qx6ItCwI"
+  },
+
+  {
+    "name": "Lazio",
+    "symbol": "Lazio",
+    "address": "0xC50A76C4f7De0d9540C7a84a6bdb9E7DB45A4d1F",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1M9kFdSI3af1sBCRcANyiRR5Eq-yNAE-_"
+  },
+  {
+    "name": "Leipzig",
+    "symbol": "Leipzig",
+    "address": "0x7b33CEA5ACfD90b81Ce703732EC8CdAcb2DF0485",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1AxRK7C5zVnDHLEGoulHy0G85pNANLkM6"
+  },
+  {
+    "name": "Man City",
+    "symbol": "Man City",
+    "address": "0xB361B1C68EEa596985b84E6e4281321AE04b0078",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1ei56J9Bj1TwnHUWcSAS3XxzwXyn7CAZE"
+  },
+
+  {
+    "name": "Napoli",
+    "symbol": "Napoli",
+    "address": "0x881e2C368b8210cF855452408C4dF666D9e24Fe6",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1MwhRZO-Eag1PjrrEQzRZ6P6JaQlo1V_-"
+  },
+
+  {
+    "name": "Porto",
+    "symbol": "Porto",
+    "address": "0x970Bc9e65a52819D9082DFcfB7AC4176dE58a635",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1m1C0J_bdTE0Ngp4jDc4JScsyxZ66dUGj"
+  },
+
+  {
+    "name": "PSG",
+    "symbol": "PSG",
+    "address": "0x52A46CB2691fEA54920eb7399e27507397abf4Cd",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1NKPwMwb2Z6Kvkd6C_dkp6zI4V_QFBxnh"
+  },
+
+  {
+    "name": "PSV",
+    "symbol": "PSV",
+    "address": "0x1c13A337224166D3fb92769Ce94B2AE947c4bAC8",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1aQ-7P-p578sT2nfXKT0W7c2ZT8Aaqt9E"
+  },
+
+  {
+    "name": "Real Madrid",
+    "symbol": "Real Madrid",
+    "address": "0xe5fB8D726f035E28368c0128f79094E6FF43bCE4",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1FX3oLYniuZK6nnGRr1vt7vUzibvlo6jb"
+  },
+
+  {
+    "name": "Sociedad",
+    "symbol": "Sociedad",
+    "address": "0x4BC32516501869052CF81151C7B32a72E05167ce",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1i6cXTQ-53Z38G_JdqSC0VKcR2LC9gYyU"
   }
 ]
