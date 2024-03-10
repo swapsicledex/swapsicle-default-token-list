@@ -408,5 +408,29 @@
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1i6cXTQ-53Z38G_JdqSC0VKcR2LC9gYyU"
+  },
+  {
+    "chainId": 40,
+    "address": "0xb754619F355eF11cb36cce70784767bA92264330",
+    "symbol": "Trump",
+    "name": "Trump",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xb754619F355eF11cb36cce70784767bA92264330/logo.png",
+    "decimals": 6
+  },
+  {
+    "chainId": 40,
+    "address": "0x15F424744c58Ec927F42A0Fd27493dE19d814B43",
+    "symbol": "MOON",
+    "name": "Moon",
+    "logoURI": "",
+    "decimals": 18
+  },
+  {
+    "chainId": 40,
+    "address": "0x73875789809885DAa0B2334C5CDa5Af6fC3a5454",
+    "symbol": "ROCKET",
+    "name": "Rocket",
+    "logoURI": "",
+    "decimals": 18
   }
 ]
