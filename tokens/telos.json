@@ -422,7 +422,7 @@
     "address": "0x15F424744c58Ec927F42A0Fd27493dE19d814B43",
     "symbol": "MOON",
     "name": "Moon",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x15F424744c58Ec927F42A0Fd27493dE19d814B43/logo.png",
     "decimals": 18
   },
   {
@@ -430,7 +430,7 @@
     "address": "0x73875789809885DAa0B2334C5CDa5Af6fC3a5454",
     "symbol": "ROCKET",
     "name": "Rocket",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x73875789809885DAa0B2334C5CDa5Af6fC3a5454/logo.png",
     "decimals": 18
   }
 ]
