@@ -372,158 +372,158 @@
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1JloVw3WC_5PmZzxqB3MVLD9zvU7Hru3Y"
-    },
-    
-    {
+  },
+
+  {
     "name": "Brisbane Lions",
     "symbol": "B Lions",
     "address": "0x343e02D8CBf28AcD19eb6ac57Abf032d6a1B881F",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1wEdSZkhnZ-5gM_LTmW7f6qrYqZ2ttZlH"
-    },
-    
-    {
+  },
+
+  {
     "name": "Carlton",
     "symbol": "Carlton",
     "address": "0x17eb3Bd543fE9DD1Ec7640F59C44aca9cFf1F0e2",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1zP-8uCPdxySqKEBnPM1vvxNFZX08gdZT"
-    },
-    
-    {
+  },
+
+  {
     "name": "Collingwood",
     "symbol": "Collingwood",
     "address": "0x91e6cdc21BF3C4452e0d50647029F2167b17402B",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1tPr-a_ymZiguSstcyjLAmXDKQpZDm_5A"
-    },
-    
-    {
+  },
+
+  {
     "name": "Essendon",
     "symbol": "Essendon",
     "address": "0x50490E403BA09373A172Fd3F876Ed9fc80F9f364",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1XOX_oM8Vdn1sCQIAh0pkp8X9wlQo4Zfq"
-    },
-    
-    {
+  },
+
+  {
     "name": "Fremantle",
     "symbol": "Fremantle",
     "address": "0x12a8917300950B8307722bDB0d0E74A41E982027",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1ZblWEtX08l_Lq5_c6jwf6QDw7ndIoWdv"
-    },
-    
-    {
+  },
+
+  {
     "name": "Geelong",
     "symbol": "Geelong",
     "address": "0x5f0466aCbfCae9936fC461409AaB71fF174D296B",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/16l-IR5giwygLremNBzrPx0qW8rszsnbW"
-    },
-    
-    {
+  },
+
+  {
     "name": "Gold Coast Suns",
     "symbol": "GC Suns",
     "address": "0x50f1c6EaF4d48a58ffFfF1B9cF385dd6452E0D8C",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1BoYaz39YxiaVHBTCdPNfyaMJ-3gKih-T"
-    },
-    
-    {
+  },
+
+  {
     "name": "GWS Giants",
     "symbol": "GWS Giants",
     "address": "0xeF50A7F309d61b818777a17377254B9761F0392A",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1dD1_iuV5jHvFuSycL81eGZ5cuWQYwEnE"
-    },
-    
-    {
+  },
+
+  {
     "name": "Hawthorn",
     "symbol": "Hawthorn",
     "address": "0x497f0cdd38a294E7579BCB317A1e63219aa4cEF8",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1ojjBmpvnBnITRvDD2OriuZPddSVNWlzK"
-    },
-    
-    {
+  },
+
+  {
     "name": "Melbourne",
     "symbol": "Melbourne",
     "address": "0x49929C0B90b9c14342C99d82C1E05BbbfaF132B1",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1e0U03FEBrSNuyvH9ngQHOfcDDhtz2DPh"
-    },
-    
-    {
+  },
+
+  {
     "name": "North Melbourne",
     "symbol": "N Melbourne",
     "address": "0x53A141E98a59Da8635De15D82cA63F4947A786CB",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1mFqv7vAC1TzNBuhXv0qN0fwA380Ydjzp"
-    },
-    
-    {
+  },
+
+  {
     "name": "Port Adelaide",
     "symbol": "P Adelaide",
     "address": "0x11f27E15F66BB1118e660a64e94eCB7E59DB2549",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/13InqFPBQ5dTsvm8Bjb-2GxKHyGNfTGo_"
-    },
-    
-    {
+  },
+
+  {
     "name": "Richmond",
     "symbol": "Richmond",
     "address": "0x1eCcb803CD48705A62cc8F6E04344D1b9473599F",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1BvH9FJ6kCaoYr4wk1ABuUO7ucvkYf1Y_"
-    },
-    
-    {
+  },
+
+  {
     "name": "St Kilda",
     "symbol": "St Kilda",
     "address": "0xec573b3467d4b01636809dD369C4A97F750d2115",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1oj5WcdPESTh8HvNf50xzjmtG489e9JhS"
-    },
-    
-    {
+  },
+
+  {
     "name": "Sydney",
     "symbol": "Sydney",
     "address": "0x0D6584C52001E7a4e50021D79C45a9d9474F7ea3",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1Ua3IGcvwC877POBV7EMgNvp2EbnDcBNi"
-    },
-    
-    {
+  },
+
+  {
     "name": "West Coast Eagles",
     "symbol": "WC Eagles",
     "address": "0x97977afc6Badbb1346b4592531c4d790046c04F4",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/15w-EPJiYr2a-isvbyEOZnHRXk0zGboHr"
-    },
-    
-    {
+  },
+
+  {
     "name": "Western Bulldogs",
     "symbol": "W Bulldogs",
     "address": "0x1d18FE4F173feEBd0a92DcEd2Ad5e8014eBb0C38",
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1aUMWi9w_KHNlAjiCzaC4EsOJnbL-gP-9"
-    }
+  }
 ]
