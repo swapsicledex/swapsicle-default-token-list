@@ -502,5 +502,181 @@
     "chainId": 40,
     "decimals": 6,
     "logoURI": "https://lh3.googleusercontent.com/d/1aUMWi9w_KHNlAjiCzaC4EsOJnbL-gP-9"
+  },
+  {
+    "name": "GT",
+    "symbol": "GT",
+    "address": "0x483199E29AA64EdDA1dF7dB2dfE1bD2183FC3041",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1HhjhSj9E0sjVD7mAyc5q185OMCpBU0V5"
+  },
+  {
+    "name": "CSK",
+    "symbol": "CSK",
+    "address": "0x4eA4eC9f68a86F9f4ee07436E8c5F51a2E984b34",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1Z0AFUxDMTrwdA_6ZzQ0YLvLMZEa4UuYA"
+  },
+  {
+    "name": "LSG",
+    "symbol": "LSG",
+    "address": "0x68847a06f304305109Dc881Ad64198c97be302ec",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1kZHP7v-Oa0Z-qs3qpI1Uk-lON0mYrdM_"
+  },
+  {
+    "name": "MI",
+    "symbol": "MI",
+    "address": "0x7664dc9689995E5E165C075291B7047bD5f14a7a",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1nn3rHgCYCTTtYMiUp2c_Um4S4Y9GgtPO"
+  },
+  {
+    "name": "RR",
+    "symbol": "RR",
+    "address": "0x7C706d2b3672fc08e3259497E90299159D00435A",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1XY1FAskwEAvOGR8FIruvQUSSECpNhBNv"
+  },
+  {
+    "name": "RCB",
+    "symbol": "RCB",
+    "address": "0xe10863BFf55f2eeef6A840cf08388F01dBCAC63f",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1UYvIUnokF-sHv6pprtCa3FIUU4c6R_oz"
+  },
+  {
+    "name": "KKR",
+    "symbol": "KKR",
+    "address": "0x5b23691bDBc0d0Eaf1b09EA3D2F2535Bfb1e91C6",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1jFoQg5Im0S9MorErtbM2aLryhnNvf1m5"
+  },
+  {
+    "name": "PBKS",
+    "symbol": "PBKS",
+    "address": "0xBB7847A4EB451D8d3Af74c3E541C7700766Fa52D",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1VwsRM2VrIZ4cJtgeJNpgXIYTwGtDkXns"
+  },
+  {
+    "name": "DC",
+    "symbol": "DC",
+    "address": "0x42fa8823Bc4E0f9140CaaEdEf9deF7D6929bC99c",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1yT524ZUWzvhG1YxzjyZnKuuQUnMKvGTW"
+  },
+  {
+    "name": "SRH",
+    "symbol": "SRH",
+    "address": "0x251bc5A6FC4D69b334a5031A0F67963Ec86f69b9",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1wS_StbHXMCR0DaxelTwej-opfQ_2Hccv"
+  },
+  {
+    "name": "UConn",
+    "symbol": "UConn",
+    "address": "0x597A61983732dCaa5bb6EBC764867Fce725a787f",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1uy4iI_VqsgW6mTCoFGSb430FR6vwTL9o"
+  },
+  {
+    "name": "Houston",
+    "symbol": "Houston",
+    "address": "0x7d4547f34499017888B025b0713a06c3E8b72d0B",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/19KM_-yjOCq0g3cWl2FmkwJwRVCLaRND5"
+  },
+  {
+    "name": "Purdue",
+    "symbol": "Purdue",
+    "address": "0x81B885C4f092Ae4dfD1cd66881De656A4786919B",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1Fi5i2OwI6XaZmvByePDAPhO4Ix4lFSJp"
+  },
+  {
+    "name": "North Carolina",
+    "symbol": "N Carolina",
+    "address": "0x190C8fb43a7eE46B6d555828e8bEfd22bd3C5730",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1nhSpIXQfdH49mAXsd0L_nNi4UpPrCsK7"
+  },
+  {
+    "name": "Tennessee",
+    "symbol": "Tennessee",
+    "address": "0xD95840588822e6e491293f0271b3Fcf3009BE6b4",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1Mb4gh-NHNueae2FvxoRYb9sBLxAbYy7k"
+  },
+  {
+    "name": "Arizona",
+    "symbol": "Arizona",
+    "address": "0xaDbaD0738a21668a1Ec2496d6236ec02472b2BA0",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1qNWMCckMCcC-fLZFrC5G4FdCyrg7abUd"
+  },
+  {
+    "name": "Marquette",
+    "symbol": "Marquette",
+    "address": "0xf1B5f403e0a799dC78227D3588291BDF582acc60",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1YyLw1s28Ftv1o6V3BkrNjVh5OgsV5A2-"
+  },
+  {
+    "name": "Iowa State",
+    "symbol": "Iowa",
+    "address": "0xf53CF7cd802593c4cFd8aB8830dBaadbD2eafB44",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1aUMWi9w_KHNlAjiCzaC4EsOJnbL-gP-9"
+  },
+  {
+    "name": "Baylor",
+    "symbol": "Baylor",
+    "address": "0x38be5Af741BB7Ef201c009b25acdBbB3497e6342",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1n94UelUoo0-qL2YwjFxhD6Xtq0mrPvWH"
+  },
+  {
+    "name": "Kentucky",
+    "symbol": "Kentucky",
+    "address": "0x482bF1E43840A0d5defBcc94bFA6668Be1D216a3",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1Y0wc_aVO7bOEz-7XaFnfQBYmkSAfPrY4"
+  },
+  {
+    "name": "Creighton",
+    "symbol": "Creighton",
+    "address": "0xDc540Ca19cB18Fdc60af2a7a52c9f8D667678d0e",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1DZk7_vyXTeBWvQ3-eDgKC2YLTWuPEx7B"
+  },
+  {
+    "name": "Illinois",
+    "symbol": "Illinois",
+    "address": "0xC76881e45c01a07f207178756b506bdd77Ed5268",
+    "chainId": 40,
+    "decimals": 6,
+    "logoURI": "https://lh3.googleusercontent.com/d/1EXL38fqxkKySSedMW45ZmyYa8_6lyUr9"
   }
 ]
