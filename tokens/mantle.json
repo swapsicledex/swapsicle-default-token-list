@@ -1,59 +1,83 @@
 [
   {
-    "chainId": 5001,
-    "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
+    "chainId": 5003,
+    "address": "0xb1eda18c1b730a973dac2ec37cfd5685d7de10dd",
     "symbol": "WMNT",
     "name": "Wrapped MNT",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/MNT/logo.svg",
     "decimals": 18
   },
   {
-    "chainId": 5001,
-    "address": "0x08f7340Df921f5559fecE57fAbE39Bb49930680e",
+    "chainId": 5003,
+    "address": "0x0cdde1dead51b156bd62113664d60b354b4df4ab",
     "symbol": "MOON",
     "name": "MOONCoin",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
     "decimals": 18
   },
   {
-    "chainId": 5001,
-    "address": "0x03727C5a873117137558710A99a793369378B7dC",
+    "chainId": 5003,
+    "address": "0xaae65b3b41f7c372c729b59b08ca93d53e9b79b3",
     "symbol": "LAMBO",
     "name": "LamboCoin",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
     "decimals": 18
   },
   {
-    "chainId": 5001,
-    "address": "0x06C6e5640e6CADF93072003D73ECD8d47B91626A",
+    "chainId": 5003,
+    "address": "0xb736642f4ba86a24ce70928037d6cff2f96c5d0c",
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
-    "decimals": 18
+    "decimals": 8
   },
   {
-    "chainId": 5001,
-    "address": "0x7Ac3e85331fC614716A2e4ef3D3F8229A42E7412",
-    "symbol": "ETH",
-    "name": "Ethereum",
+    "chainId": 5003,
+    "address": "0xcaea50d878d8fd36b726e4e6ffa6fae0956ff1a2",
+    "symbol": "WETH",
+    "name": "Ether",
     "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
     "decimals": 18
   },
   {
-    "chainId": 5001,
-    "address": "0x104e77b8d9fafFc6F8ef1Cc3b56a9B20667c5A64",
+    "chainId": 5003,
+    "address": "0x3c8d3fcd0b0bd6f46c8883db5d14a8f510a4591d",
+    "symbol": "USDT",
+    "name": "USD Tether",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae.png"
+  },
+  {
+    "chainId": 5003,
+    "address": "0xbb74689297a783eeffaefcc1334939e19f139c86",
     "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
   },
   {
-    "chainId": 5001,
-    "address": "0xb9c6acfaf5cb0580476a0b609d8c4f64a8c793ce",
+    "chainId": 5003,
+    "address": "0xac45ede2098bc989dfe0798b4630872006e24c3f",
+    "symbol": "mUSD",
+    "name": "Mantle USD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3/logo.png"
+  },
+  {
+    "chainId": 5003,
+    "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
     "symbol": "SLUSH",
     "name": "Swapsicle Slush",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0/logo.png"
+  },
+  {
+    "chainId": 5003,
+    "address": "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
   },
   {
     "chainId": 5000,
@@ -62,14 +86,6 @@
     "name": "Swapsicle Slush",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
-  },
-  {
-    "chainId": 5001,
-    "address": "0x55cba56adc37639dbcda1d88c245a9544753441e",
-    "symbol": "ICE",
-    "name": "Swapsicle Ice",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
   },
   {
     "chainId": 5000,
@@ -199,7 +215,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5.png"
   },
-
   {
     "name": "Mantle USD",
     "symbol": "mUSD",
