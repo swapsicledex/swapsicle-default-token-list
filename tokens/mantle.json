@@ -80,26 +80,26 @@
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
   },
   {
-    "chainId": 5000,
-    "address": "0x8309Bc8BB43fB54dB02DA7d8bf87192355532829",
-    "symbol": "SLUSH",
     "name": "Swapsicle Slush",
+    "symbol": "SLUSH",
+    "address": "0x8309Bc8BB43fB54dB02DA7d8bf87192355532829",
+    "chainId": 5000,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
   },
   {
-    "chainId": 5000,
-    "address": "0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3",
-    "symbol": "ICE",
     "name": "Swapsicle Ice",
+    "symbol": "ICE",
+    "address": "0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3",
+    "chainId": 5000,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
   },
   {
-    "chainId": 5000,
-    "address": "0x25356aeca4210eF7553140edb9b8026089E49396",
-    "symbol": "LEND",
     "name": "Lendle",
+    "symbol": "LEND",
+    "address": "0x25356aeca4210eF7553140edb9b8026089E49396",
+    "chainId": 5000,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/31588/small/lendle_logo_200_200_cg.png?1693993260"
   },
