@@ -27,7 +27,7 @@
     "chainId": 5003,
     "address": "0xb736642f4ba86a24ce70928037d6cff2f96c5d0c",
     "symbol": "WBTC",
-    "name": "Wrapped Bitcoin",
+    "name": "Wrapped BTC",
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
     "decimals": 8
   },
