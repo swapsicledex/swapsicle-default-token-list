@@ -684,7 +684,7 @@
     "symbol": "ZKE",
     "address": "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
     "chainId": 40,
-    "decimals": 8,
+    "decimals": 18,
     "logoURI": "https://app.zkera.fi/zkera.svg"
   }
 ]
