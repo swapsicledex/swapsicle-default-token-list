@@ -129,7 +129,7 @@
   },
   {
     "name": "Wrapped BTC",
-    "symbol": "BTCb",
+    "symbol": "BTC.b",
     "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
     "chainId": 40,
     "decimals": 8,
