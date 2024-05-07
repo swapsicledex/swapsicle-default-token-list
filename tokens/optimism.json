@@ -717,6 +717,17 @@
       {
         "chainId": 10,
         "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "name": "USD Coin (Bridged from Ethereum)",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+        "extensions": {
+          "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+      },
+      {
+        "chainId": 10,
+        "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
@@ -833,6 +844,17 @@
         "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
         "extensions": {
           "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957"
+        }
+      },
+      {
+        "chainId": 10,
+        "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+        "name": "Coinbase Wrapped Staked ETH",
+        "symbol": "cbETH",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+        "extensions": {
+          "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
         }
       },
       {
