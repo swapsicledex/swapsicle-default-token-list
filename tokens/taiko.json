@@ -1,0 +1,130 @@
+[
+  {
+    "chainId": 167009,
+    "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+    "symbol": "SLUSH",
+    "name": "Swapsicle Slush",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0/logo.png"
+  },
+  {
+    "chainId": 167009,
+    "address": "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
+  },
+  {
+    "chainId": 167009,
+    "address": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9",
+    "symbol": "WETH",
+    "name": "Ether",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+  },
+  {
+    "chainId": 167009,
+    "address": "0x06c6e5640e6cadf93072003d73ecd8d47b91626a",
+    "symbol": "TAIKO",
+    "name": "Taiko Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/taiko/TAIKO/logo.png"
+  },
+  {
+    "chainId": 167009,
+    "address": "0x08f7340df921f5559fece57fabe39bb49930680e",
+    "symbol": "USDT",
+    "name": "USD Tether",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/167000/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae.png"
+  },
+  {
+    "chainId": 167009,
+    "address": "0x7ac3e85331fc614716a2e4ef3d3f8229a42e7412",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+  },
+  {
+    "chainId": 167009,
+    "address": "0x03727c5a873117137558710a99a793369378b7dc",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
+  },
+  {
+    "chainId": 167009,
+    "address": "0x630e4925e42bda08425c82f22cf712fff8a40fe8",
+    "symbol": "MOON",
+    "name": "MOONCoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
+  },
+  {
+    "chainId": 167009,
+    "address": "0xbb74689297a783eeffaefcc1334939e19f139c86",
+    "symbol": "LAMBO",
+    "name": "LamboCoin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
+  },
+  {
+    "chainId": 167000,
+    "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+    "symbol": "SLUSH",
+    "name": "Swapsicle Slush",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0/logo.png"
+  },
+  {
+    "chainId": 167000,
+    "address": "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
+  },
+  {
+    "chainId": 167000,
+    "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
+    "symbol": "WETH",
+    "name": "Ether",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/167000/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.png"
+  },
+  {
+    "chainId": 167000,
+    "address": "0xA9d23408b9bA935c230493c40C73824Df71A0975",
+    "symbol": "TAIKO",
+    "name": "Taiko Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/taiko/TAIKO/logo.png"
+  },
+  {
+    "chainId": 167000,
+    "address": "0x2DEF195713CF4a606B49D07E520e22C17899a736",
+    "symbol": "USDT",
+    "name": "USD Tether",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/167000/0x201eba5cc46d216ce6dc03f6a759e8e766e956ae.png"
+  },
+  {
+    "chainId": 167000,
+    "address": "0x07d83526730c7438048D55A4fc0b850e2aaB6f0b",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/167000/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9.png"
+  },
+  {
+    "chainId": 167000,
+    "address": "0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C",
+    "symbol": "USDC.e",
+    "name": "Bridged USDC (Stargate)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/matic/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
+  }
+]
