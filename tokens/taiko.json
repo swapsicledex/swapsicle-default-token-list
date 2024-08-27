@@ -25,7 +25,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0x06c6e5640e6cadf93072003d73ecd8d47b91626a",
+    "address": "0x06C6e5640e6CADF93072003D73ECD8d47B91626A",
     "symbol": "TAIKO",
     "name": "Taiko Token",
     "decimals": 18,
@@ -33,7 +33,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0x08f7340df921f5559fece57fabe39bb49930680e",
+    "address": "0x08f7340Df921f5559fecE57fAbE39Bb49930680e",
     "symbol": "USDT",
     "name": "USD Tether",
     "decimals": 6,
@@ -49,7 +49,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0x03727c5a873117137558710a99a793369378b7dc",
+    "address": "0x03727C5a873117137558710A99a793369378B7dC",
     "symbol": "WBTC",
     "name": "Wrapped BTC",
     "decimals": 8,
@@ -57,7 +57,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0x630e4925e42bda08425c82f22cf712fff8a40fe8",
+    "address": "0x630e4925e42bda08425C82f22CF712Fff8a40fE8",
     "symbol": "MOON",
     "name": "MOONCoin",
     "decimals": 18,
