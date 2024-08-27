@@ -1,7 +1,7 @@
 [
   {
     "chainId": 167009,
-    "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+    "address": "0x36BFE1F1b36CfdB4fe75cC592FF5dC6200Ad3E0f",
     "symbol": "SLUSH",
     "name": "Swapsicle Slush",
     "decimals": 18,
@@ -9,7 +9,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7",
+    "address": "0x0c4e57A3a3EF4790C4848a711851DC08e8A16dA7",
     "symbol": "ICE",
     "name": "Swapsicle Ice",
     "decimals": 18,
@@ -41,7 +41,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0x7ac3e85331fc614716a2e4ef3d3f8229a42e7412",
+    "address": "0x7Ac3e85331fC614716A2e4ef3D3F8229A42E7412",
     "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 6,
@@ -65,7 +65,7 @@
   },
   {
     "chainId": 167009,
-    "address": "0xbb74689297a783eeffaefcc1334939e19f139c86",
+    "address": "0xbB74689297a783eEFfAEfcC1334939E19F139C86",
     "symbol": "LAMBO",
     "name": "LamboCoin",
     "decimals": 18,
@@ -73,7 +73,7 @@
   },
   {
     "chainId": 167000,
-    "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+    "address": "0x36BFE1F1b36CfdB4fe75cC592FF5dC6200Ad3E0f",
     "symbol": "SLUSH",
     "name": "Swapsicle Slush",
     "decimals": 18,
@@ -81,7 +81,7 @@
   },
   {
     "chainId": 167000,
-    "address": "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7",
+    "address": "0x0c4e57A3a3EF4790C4848a711851DC08e8A16dA7",
     "symbol": "ICE",
     "name": "Swapsicle Ice",
     "decimals": 18,

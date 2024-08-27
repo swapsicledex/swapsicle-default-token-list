@@ -81,7 +81,7 @@
   },
   {
     "chainId": 40,
-    "address": "0xac45ede2098bc989dfe0798b4630872006e24c3f",
+    "address": "0xaC45EDe2098bc989Dfe0798B4630872006e24c3f",
     "symbol": "SLUSH",
     "name": "Swapsicle Slush",
     "decimals": 18,
@@ -89,7 +89,7 @@
   },
   {
     "chainId": 40,
-    "address": "0xaae65b3b41f7c372c729b59b08ca93d53e9b79b3",
+    "address": "0xaAE65B3b41F7C372c729B59B08Ca93d53E9B79b3",
     "symbol": "ICE",
     "name": "Swapsicle Ice",
     "decimals": 18,
