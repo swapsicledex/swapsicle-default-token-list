@@ -1,10 +1,34 @@
 [
   {
+    "chainId": 43113,
+    "address": "0x6E2542aFC68a1697FeB2810437DF9409D3b93493",
+    "name": "POPSToken",
+    "symbol": "POPS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg"
+  },
+  {
+    "chainId": 43113,
     "name": "Wrapped AVAX",
     "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
     "symbol": "WAVAX",
     "decimals": 18,
-    "chainId": 43113,
     "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=010"
+  },
+  {
+    "chainId": 43113,
+    "address": "0x40174bf6df1A49d8fAA84dD1C6440ab59371116E",
+    "name": "Swapsicle Slush",
+    "symbol": "SLUSH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
+  },
+  {
+    "chainId": 43113,
+    "address": "0xc2B5190c4e766212eb0a7065acB623a4c003A4BC",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
   }
 ]

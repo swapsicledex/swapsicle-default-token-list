@@ -353,6 +353,21 @@
     "symbol": "NXUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/25101/small/nxusd-logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x29eDa9bEe2adf5B67F159Cf8D279402B24E6D074",
+    "name": "Swapsicle Slush",
+    "symbol": "SLUSH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc74E4d4301b385f05139824aD651796Fd494afED",
+    "symbol": "ICE",
+    "name": "Swapsicle Ice",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
   }
-  
 ]
