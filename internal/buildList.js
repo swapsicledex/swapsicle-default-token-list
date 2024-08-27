@@ -1,15 +1,16 @@
 const { version } = require("../package.json");
 
 const mainnet = require("../tokens/mainnet.json");
-
 const fantom = require("../tokens/fantom.json");
 const matic = require("../tokens/matic.json");
 const bsc = require("../tokens/bsc.json");
 const avalanche = require("../tokens/avalanche.json");
+const fuji = require("../tokens/fuji.json");
 const arbitrum = require("../tokens/arbitrum.json");
 const telos = require("../tokens/telos.json");
 const mantle = require("../tokens/mantle.json");
 const optimism = require("../tokens/optimism.json");
+const taiko = require("../tokens/taiko.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -30,10 +31,12 @@ module.exports = function buildList() {
       ...matic,
       ...bsc,
       ...avalanche,
+      ...fuji,
       ...optimism,
       ...arbitrum,
       ...telos,
       ...mantle,
+      ...taiko,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
