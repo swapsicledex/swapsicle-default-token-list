@@ -126,5 +126,13 @@
     "name": "Bridged USDC (Stargate)",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9.png"
+  },
+  {
+    "chainId": 167000,
+    "address": "0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
   }
 ]
