@@ -17,6 +17,14 @@
   },
   {
     "chainId": 167009,
+    "address": "0x6225C5881105c2F2F345faDfCf07d59d384c57C5",
+    "symbol": "RBN",
+    "name": "Robinos",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.png",
+    "decimals": 18
+  },
+  {
+    "chainId": 167009,
     "address": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9",
     "symbol": "WETH",
     "name": "Ether",
@@ -86,6 +94,14 @@
     "name": "Swapsicle Ice",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
+  },
+  {
+    "chainId": 167000,
+    "address": "0x8330F9781099a8d0FE97b6F0f165cAE813eC3732",
+    "symbol": "RBN",
+    "name": "Robinos",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.png",
+    "decimals": 18
   },
   {
     "chainId": 167000,

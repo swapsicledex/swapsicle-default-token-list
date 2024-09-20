@@ -80,6 +80,14 @@
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg"
   },
   {
+    "chainId": 5003,
+    "address": "0x5ff7055a0e11bee5D2d28c5e006Dfd5E073Ed0BD",
+    "symbol": "RBN",
+    "name": "Robinos",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.png",
+    "decimals": 18
+  },
+  {
     "name": "Swapsicle Slush",
     "symbol": "SLUSH",
     "address": "0x8309Bc8BB43fB54dB02DA7d8bf87192355532829",
@@ -94,6 +102,14 @@
     "chainId": 5000,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg"
+  },
+  {
+    "chainId": 5000,
+    "address": "0xad69564218e899f9D52cae6D9fAA10049e7A306D",
+    "symbol": "RBN",
+    "name": "Robinos",
+    "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.png",
+    "decimals": 18
   },
   {
     "name": "Lendle",
