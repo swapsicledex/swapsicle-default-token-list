@@ -2,6 +2,8 @@
 
 This NPM module and GitHub repo contains the default token list used in the Swapsicle interface.
 
+[@swapsicledex/swapsicle-default-token-list on npmjs.com](https://www.npmjs.com/package/@swapsicledex/swapsicle-default-token-list)
+
 ## Deployment
 
 Install npm.
