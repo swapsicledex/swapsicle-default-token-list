@@ -470,5 +470,13 @@
     "chainId": 40,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xe400E86D07Ad66B69E19411cb3b0BA5cD337CaA9/logo.png"
+  },
+  {
+    "name": "GUARDIAN",
+    "symbol": "GUARDIAN",
+    "address": "0x790666E09c6Bc15A493b5F6C9d09c864c7152062",
+    "chainId": 40,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/MeridianDollar/brand-assets/refs/heads/main/guardian-500x500.png"
   }
 ]
