@@ -478,5 +478,13 @@
     "chainId": 40,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/MeridianDollar/brand-assets/refs/heads/main/guardian-500x500.png"
+  },
+  {
+    "name": "BOID",
+    "symbol": "BOID",
+    "address": "0xF07f8D13F57dF3572b284FB701cEF021C62a68Ab",
+    "chainId": 40,
+    "decimals": 18,
+    "logoURI": "https://ipfs.pintastic.link/ipfs/QmWVH1t4UgbWv2CcRDCJDrGHL32AkKATS5inQC227QNgfZ"
   }
 ]
